@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    color: #222;
+}
+
+.hidden { display: none; }
+
+#sentence-box {
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+.correct { color: green; font-weight: bold; }
+.mispronounced { color: red; font-weight: bold; }
+.not-spoken { color: orange; font-weight: bold; }
+
+#controls button {
+    margin-right: 10px;
+    padding: 10px 15px;
+}

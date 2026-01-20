@@ -1,0 +1,6408 @@
+{
+    "beginner":[
+    {
+      "id": 1,
+      "text": "I live in a small flat near the market."
+    },
+    {
+      "id": 2,
+      "text": "My sister loves to read storybooks every night."
+    },
+    {
+      "id": 3,
+      "text": "We usually drink tea together in the morning."
+    },
+    {
+      "id": 4,
+      "text": "The train to the city arrives in ten minutes."
+    },
+    {
+      "id": 5,
+      "text": "He keeps his bicycle in the garage downstairs."
+    },
+    {
+      "id": 6,
+      "text": "They often go for walks in the neighbourhood park."
+    },
+    {
+      "id": 7,
+      "text": "I like to keep my desk clean and organised."
+    },
+    {
+      "id": 8,
+      "text": "Our grandmother tells interesting stories from her childhood."
+    },
+    {
+      "id": 9,
+      "text": "The children are playing cricket outside the house."
+    },
+    {
+      "id": 10,
+      "text": "She buys fresh vegetables from the street vendor."
+    },
+    {
+      "id": 11,
+      "text": "We have a maths test tomorrow at school."
+    },
+    {
+      "id": 12,
+      "text": "My father works in an office in the town centre."
+    },
+    {
+      "id": 13,
+      "text": "It rains heavily here during the monsoon season."
+    },
+    {
+      "id": 14,
+      "text": "The library has many books about animals and plants."
+    },
+    {
+      "id": 15,
+      "text": "I forgot my umbrella on the bus yesterday."
+    },
+    {
+      "id": 16,
+      "text": "We visited our cousins during the summer holidays."
+    },
+    {
+      "id": 17,
+      "text": "The teacher explained the lesson very clearly."
+    },
+    {
+      "id": 18,
+      "text": "Our dog likes to sleep near the window."
+    },
+    {
+      "id": 19,
+      "text": "I made a cup of tea for my mother."
+    },
+    {
+      "id": 20,
+      "text": "They watched a film together at home last night."
+    },
+    {
+      "id": 21,
+      "text": "The shop closes early on Sundays."
+    },
+    {
+      "id": 22,
+      "text": "I packed biscuits and fruit in my lunchbox."
+    },
+    {
+      "id": 23,
+      "text": "She practises drawing flowers in her notebook."
+    },
+    {
+      "id": 24,
+      "text": "The electricity went off for half an hour."
+    },
+    {
+      "id": 25,
+      "text": "We cleaned the house before the guests arrived."
+    },
+    {
+      "id": 26,
+      "text": "I need to buy a new pair of shoes."
+    },
+    {
+      "id": 27,
+      "text": "He uses the lift because the stairs are too long."
+    },
+    {
+      "id": 28,
+      "text": "The doctor asked me to drink more water."
+    },
+    {
+      "id": 29,
+      "text": "The bus stop is right opposite the bakery."
+    },
+    {
+      "id": 30,
+      "text": "I woke up late because my alarm did not ring."
+    },
+    {
+      "id": 31,
+      "text": "We celebrated her birthday with a small cake."
+    },
+    {
+      "id": 32,
+      "text": "Our teacher gave us homework for the weekend."
+    },
+    {
+      "id": 33,
+      "text": "I like to listen to music while studying."
+    },
+    {
+      "id": 34,
+      "text": "My mother makes delicious vegetable curry."
+    },
+    {
+      "id": 35,
+      "text": "We went to the beach during our holiday."
+    },
+    {
+      "id": 36,
+      "text": "The museum had many old coins and paintings."
+    },
+    {
+      "id": 37,
+      "text": "She keeps her hair tied during school hours."
+    },
+    {
+      "id": 38,
+      "text": "We wrote a letter to our uncle in London."
+    },
+    {
+      "id": 39,
+      "text": "The weather is cool and windy today."
+    },
+    {
+      "id": 40,
+      "text": "He lost his wallet on the train."
+    },
+    {
+      "id": 41,
+      "text": "They baked biscuits in the oven."
+    },
+    {
+      "id": 42,
+      "text": "I saved money to buy a wristwatch."
+    },
+    {
+      "id": 43,
+      "text": "We planted trees in the garden behind our house."
+    },
+    {
+      "id": 44,
+      "text": "My neighbour owns a small stationery shop."
+    },
+    {
+      "id": 45,
+      "text": "The children sang songs for the school function."
+    },
+    {
+      "id": 46,
+      "text": "I found my lost pencil under the table."
+    },
+    {
+      "id": 47,
+      "text": "The streetlights were turned on at dusk."
+    },
+    {
+      "id": 48,
+      "text": "We ate ice cream even though it was raining."
+    },
+    {
+      "id": 49,
+      "text": "She carried a small handbag to the party."
+    },
+    {
+      "id": 50,
+      "text": "He forgot to wear his identity card at school."
+    },
+    {
+      "id": 51,
+      "text": "We practised our handwriting during the class."
+    },
+    {
+      "id": 52,
+      "text": "I borrowed a book about space from the library."
+    },
+    {
+      "id": 53,
+      "text": "The driver opened the door for the passengers."
+    },
+    {
+      "id": 54,
+      "text": "They reserved a table at the restaurant."
+    },
+    {
+      "id": 55,
+      "text": "My aunt travels to work on a scooter."
+    },
+    {
+      "id": 56,
+      "text": "We built sandcastles on the beach."
+    },
+    {
+      "id": 57,
+      "text": "The phone battery drained very quickly."
+    },
+    {
+      "id": 58,
+      "text": "She folded the clothes neatly after washing."
+    },
+    {
+      "id": 59,
+      "text": "The teacher checked our notebooks carefully."
+    },
+    {
+      "id": 60,
+      "text": "We stood in a long queue at the ticket counter."
+    },
+    {
+      "id": 61,
+      "text": "My grandfather goes for a morning walk every day."
+    },
+    {
+      "id": 62,
+      "text": "I cleaned my spectacles using a soft cloth."
+    },
+    {
+      "id": 63,
+      "text": "They celebrated the festival with fireworks."
+    },
+    {
+      "id": 64,
+      "text": "The gardener watered the plants early in the morning."
+    },
+    {
+      "id": 65,
+      "text": "Our cat sleeps on the sofa during the afternoon."
+    },
+    {
+      "id": 66,
+      "text": "I collected stamps as a hobby when I was younger."
+    },
+    {
+      "id": 67,
+      "text": "We clicked photographs near the fountain."
+    },
+    {
+      "id": 68,
+      "text": "She prepared sandwiches for the picnic."
+    },
+    {
+      "id": 69,
+      "text": "The postman delivered our letters late today."
+    },
+    {
+      "id": 70,
+      "text": "He forgot his raincoat and got soaked."
+    },
+    {
+      "id": 71,
+      "text": "We watched birds sitting on the telephone wires."
+    },
+    {
+      "id": 72,
+      "text": "She likes to decorate her diary with stickers."
+    },
+    {
+      "id": 73,
+      "text": "I reorganised my cupboard last weekend."
+    },
+    {
+      "id": 74,
+      "text": "The coffee shop is crowded during evenings."
+    },
+    {
+      "id": 75,
+      "text": "We arrived early to get good seats."
+    },
+    {
+      "id": 76,
+      "text": "I sharpened my pencil before writing."
+    },
+    {
+      "id": 77,
+      "text": "They filled water bottles from the cooler."
+    },
+    {
+      "id": 78,
+      "text": "Our school announced a sports competition."
+    },
+    {
+      "id": 79,
+      "text": "My brother plays football after tuition."
+    },
+    {
+      "id": 80,
+      "text": "The bus was delayed due to traffic."
+    },
+    {
+      "id": 81,
+      "text": "She wore a warm jumper because it was cold."
+    },
+    {
+      "id": 82,
+      "text": "We packed our bags for the trip."
+    },
+    {
+      "id": 83,
+      "text": "The electrician repaired the broken switch."
+    },
+    {
+      "id": 84,
+      "text": "I helped my mother cut vegetables."
+    },
+    {
+      "id": 85,
+      "text": "They cleaned the aquarium together."
+    },
+    {
+      "id": 86,
+      "text": "The shopkeeper gave me the wrong change."
+    },
+    {
+      "id": 87,
+      "text": "Our neighbour gifted us homemade sweets."
+    },
+    {
+      "id": 88,
+      "text": "The students arranged the chairs before assembly."
+    },
+    {
+      "id": 89,
+      "text": "I ironed my uniform for the next day."
+    },
+    {
+      "id": 90,
+      "text": "She practised the piano for an hour."
+    },
+    {
+      "id": 91,
+      "text": "We bought tickets for the science exhibition."
+    },
+    {
+      "id": 92,
+      "text": "The chef prepared pasta in a large pan."
+    },
+    {
+      "id": 93,
+      "text": "My cousin collects old coins."
+    },
+    {
+      "id": 94,
+      "text": "We heard thunder before the rain started."
+    },
+    {
+      "id": 95,
+      "text": "The clock on the wall stopped working."
+    },
+    {
+      "id": 96,
+      "text": "I tied my shoelaces properly."
+    },
+    {
+      "id": 97,
+      "text": "They planted flowers in colourful pots."
+    },
+    {
+      "id": 98,
+      "text": "The teacher praised our group for teamwork."
+    },
+    {
+      "id": 99,
+      "text": "We drew a map of our school in class."
+    },
+    {
+      "id": 100,
+      "text": "She set an alarm for five in the morning."
+    },
+    {
+      "id": 101,
+      "text": "He wore a raincoat and boots before going out."
+    },
+    {
+      "id": 102,
+      "text": "We bought fresh fruits from the market stall."
+    },
+    {
+      "id": 103,
+      "text": "The children waved at the train passing by."
+    },
+    {
+      "id": 104,
+      "text": "I watered the plants while my sister swept the floor."
+    },
+    {
+      "id": 105,
+      "text": "The nurse checked my temperature."
+    },
+    {
+      "id": 106,
+      "text": "Our dog wagged its tail happily."
+    },
+    {
+      "id": 107,
+      "text": "She carried two heavy bags up the stairs."
+    },
+    {
+      "id": 108,
+      "text": "We tasted different kinds of cheese."
+    },
+    {
+      "id": 109,
+      "text": "He forgot to lock the gate."
+    },
+    {
+      "id": 110,
+      "text": "The scientist explained the experiment."
+    },
+    {
+      "id": 111,
+      "text": "I saw a rainbow after the rain."
+    },
+    {
+      "id": 112,
+      "text": "We dried our clothes on the balcony."
+    },
+    {
+      "id": 113,
+      "text": "She arranged flowers in a vase."
+    },
+    {
+      "id": 114,
+      "text": "The teacher wrote notes on the board."
+    },
+    {
+      "id": 115,
+      "text": "We waited for the bus under the shelter."
+    },
+    {
+      "id": 116,
+      "text": "He sent a postcard from another country."
+    },
+    {
+      "id": 117,
+      "text": "My mother stitched my torn pocket."
+    },
+    {
+      "id": 118,
+      "text": "We heard a loud whistle from the train."
+    },
+    {
+      "id": 119,
+      "text": "The shop displayed colourful toys."
+    },
+    {
+      "id": 120,
+      "text": "She spoke softly during the meeting."
+    },
+    {
+      "id": 121,
+      "text": "I saved my work before shutting the computer."
+    },
+    {
+      "id": 122,
+      "text": "The children coloured pictures in their books."
+    },
+    {
+      "id": 123,
+      "text": "He poured juice into the glass."
+    },
+    {
+      "id": 124,
+      "text": "We cleaned our shoes with a brush."
+    },
+    {
+      "id": 125,
+      "text": "She dusted the shelves with a cloth."
+    },
+    {
+      "id": 126,
+      "text": "They wrote invitations for the celebration."
+    },
+    {
+      "id": 127,
+      "text": "I spotted a squirrel on the tree."
+    },
+    {
+      "id": 128,
+      "text": "The conductor checked our tickets."
+    },
+    {
+      "id": 129,
+      "text": "Our class made charts for the exhibition."
+    },
+    {
+      "id": 130,
+      "text": "She fed the stray cats near the gate."
+    },
+    {
+      "id": 131,
+      "text": "I folded the paper into a neat square."
+    },
+    {
+      "id": 132,
+      "text": "We booked seats on the early morning bus."
+    },
+    {
+      "id": 133,
+      "text": "The shopkeeper weighed the vegetables."
+    },
+    {
+      "id": 134,
+      "text": "My father repaired the broken chair."
+    },
+    {
+      "id": 135,
+      "text": "The dog chewed the newspaper."
+    },
+    {
+      "id": 136,
+      "text": "The coach trained the players for the match."
+    },
+    {
+      "id": 137,
+      "text": "We cleaned up after the party."
+    },
+    {
+      "id": 138,
+      "text": "He recorded the announcement."
+    },
+    {
+      "id": 139,
+      "text": "The artist painted a picture of a river."
+    },
+    {
+      "id": 140,
+      "text": "She bought ribbon to wrap gifts."
+    },
+    {
+      "id": 141,
+      "text": "We opened the windows for fresh air."
+    },
+    {
+      "id": 142,
+      "text": "I sorted my clothes into colours."
+    },
+    {
+      "id": 143,
+      "text": "The mechanic fixed the punctured tyre."
+    },
+    {
+      "id": 144,
+      "text": "The children solved puzzles together."
+    },
+    {
+      "id": 145,
+      "text": "She ate porridge for breakfast."
+    },
+    {
+      "id": 146,
+      "text": "We collected seashells from the shore."
+    },
+    {
+      "id": 147,
+      "text": "The boy pointed at the aeroplane in the sky."
+    },
+    {
+      "id": 148,
+      "text": "I washed my hands before dinner."
+    },
+    {
+      "id": 149,
+      "text": "They sang songs during the bus journey."
+    },
+    {
+      "id": 150,
+      "text": "My aunt knitted a woollen scarf."
+    },
+    {
+      "id": 151,
+      "text": "We switched off the fan before leaving."
+    },
+    {
+      "id": 152,
+      "text": "He built a small model aeroplane."
+    },
+    {
+      "id": 153,
+      "text": "The librarian arranged the books neatly."
+    },
+    {
+      "id": 154,
+      "text": "We tasted mangoes during summer."
+    },
+    {
+      "id": 155,
+      "text": "She stuck a stamp on the envelope."
+    },
+    {
+      "id": 156,
+      "text": "I cleaned my spectacles with tissue."
+    },
+    {
+      "id": 157,
+      "text": "We rinsed the plates after eating."
+    },
+    {
+      "id": 158,
+      "text": "Our team won the relay race."
+    },
+    {
+      "id": 159,
+      "text": "The announcer spoke through a microphone."
+    },
+    {
+      "id": 160,
+      "text": "I replaced the empty ink cartridge."
+    },
+    {
+      "id": 161,
+      "text": "She warmed the soup on the stove."
+    },
+    {
+      "id": 162,
+      "text": "The children argued about the rules."
+    },
+    {
+      "id": 163,
+      "text": "We crossed the road carefully."
+    },
+    {
+      "id": 164,
+      "text": "He wrapped the gift in colourful paper."
+    },
+    {
+      "id": 165,
+      "text": "I wiped the table with a cloth."
+    },
+    {
+      "id": 166,
+      "text": "She posted a letter at the postbox."
+    },
+    {
+      "id": 167,
+      "text": "We watered the seeds we had planted."
+    },
+    {
+      "id": 168,
+      "text": "The waiter served tea and biscuits."
+    },
+    {
+      "id": 169,
+      "text": "He handed me the key to the gate."
+    },
+    {
+      "id": 170,
+      "text": "The traffic light turned red."
+    },
+    {
+      "id": 171,
+      "text": "We checked our answers twice."
+    },
+    {
+      "id": 172,
+      "text": "She cleaned the window glass."
+    },
+    {
+      "id": 173,
+      "text": "He drew a big circle on the board."
+    },
+    {
+      "id": 174,
+      "text": "We packed our clothes into suitcases."
+    },
+    {
+      "id": 175,
+      "text": "The electrician replaced the bulb."
+    },
+    {
+      "id": 176,
+      "text": "She braided her hair neatly."
+    },
+    {
+      "id": 177,
+      "text": "We practised spelling words."
+    },
+    {
+      "id": 178,
+      "text": "He sliced the bread with a knife."
+    },
+    {
+      "id": 179,
+      "text": "The shop sold fresh bread and pastries."
+    },
+    {
+      "id": 180,
+      "text": "I placed the flowers in sunlight."
+    },
+    {
+      "id": 181,
+      "text": "The students rehearsed for the annual day."
+    },
+    {
+      "id": 182,
+      "text": "She kept a diary of her daily activities."
+    },
+    {
+      "id": 183,
+      "text": "We boiled eggs for breakfast."
+    },
+    {
+      "id": 184,
+      "text": "He scratched his arm because of mosquitoes."
+    },
+    {
+      "id": 185,
+      "text": "The bell rang loudly at the end of school."
+    },
+    {
+      "id": 186,
+      "text": "I scribbled a quick note on paper."
+    },
+    {
+      "id": 187,
+      "text": "She organised her pens by colour."
+    },
+    {
+      "id": 188,
+      "text": "We cleaned the blackboard after class."
+    },
+    {
+      "id": 189,
+      "text": "He carried water bottles for everyone."
+    },
+    {
+      "id": 190,
+      "text": "We stood quietly in a straight line."
+    },
+    {
+      "id": 191,
+      "text": "She poured milk into a cup."
+    },
+    {
+      "id": 192,
+      "text": "They collected newspaper for recycling."
+    },
+    {
+      "id": 193,
+      "text": "I adjusted the strap of my bag."
+    },
+    {
+      "id": 194,
+      "text": "She checked the time on her watch."
+    },
+    {
+      "id": 195,
+      "text": "He counted the coins he had saved."
+    },
+    {
+      "id": 196,
+      "text": "We swept the balcony together."
+    },
+    {
+      "id": 197,
+      "text": "She peeled the oranges for us."
+    },
+    {
+      "id": 198,
+      "text": "He smiled and waved goodbye."
+    },
+    {
+      "id": 199,
+      "text": "We rolled the dough to make chapatis."
+    },
+    {
+      "id": 200,
+      "text": "She stored the leftover food in a container."
+    },
+    {
+      "id": 201,
+      "text": "He pushed the door gently so it would not creak."
+    },
+    {
+      "id": 202,
+      "text": "We waited under the tree for the rain to stop."
+    },
+    {
+      "id": 203,
+      "text": "She scribbled her signature on the form."
+    },
+    {
+      "id": 204,
+      "text": "They filled the bucket with cold water."
+    },
+    {
+      "id": 205,
+      "text": "My mother added spices to the curry."
+    },
+    {
+      "id": 206,
+      "text": "We stuck the poster on the classroom wall."
+    },
+    {
+      "id": 207,
+      "text": "He whispered the answer to his friend."
+    },
+    {
+      "id": 208,
+      "text": "I placed my shoes neatly near the door."
+    },
+    {
+      "id": 209,
+      "text": "The shopkeeper closed the shutters at night."
+    },
+    {
+      "id": 210,
+      "text": "She spread butter on the warm toast."
+    },
+    {
+      "id": 211,
+      "text": "We sorted the old magazines into piles."
+    },
+    {
+      "id": 212,
+      "text": "The teacher underlined important sentences."
+    },
+    {
+      "id": 213,
+      "text": "He packed extra clothes for the trip."
+    },
+    {
+      "id": 214,
+      "text": "I rinsed my mouth after brushing my teeth."
+    },
+    {
+      "id": 215,
+      "text": "They sharpened their pencils before the test."
+    },
+    {
+      "id": 216,
+      "text": "She pointed at the map during the presentation."
+    },
+    {
+      "id": 217,
+      "text": "We sprinkled salt on the popcorn."
+    },
+    {
+      "id": 218,
+      "text": "He repaired the handle of the cupboard."
+    },
+    {
+      "id": 219,
+      "text": "She wrote a list of things to buy."
+    },
+    {
+      "id": 220,
+      "text": "We crossed the railway bridge carefully."
+    },
+    {
+      "id": 221,
+      "text": "My cousin plays badminton in the evenings."
+    },
+    {
+      "id": 222,
+      "text": "The cleaner mopped the corridor floor."
+    },
+    {
+      "id": 223,
+      "text": "He tied the rope tightly to the pole."
+    },
+    {
+      "id": 224,
+      "text": "We made lemonade using fresh lemons."
+    },
+    {
+      "id": 225,
+      "text": "She folded the napkins for the dinner table."
+    },
+    {
+      "id": 226,
+      "text": "I heard the bell ringing loudly."
+    },
+    {
+      "id": 227,
+      "text": "They painted their room light blue."
+    },
+    {
+      "id": 228,
+      "text": "The conductor blew a whistle before departure."
+    },
+    {
+      "id": 229,
+      "text": "She printed the notes from the computer."
+    },
+    {
+      "id": 230,
+      "text": "We dropped coins into the charity box."
+    },
+    {
+      "id": 231,
+      "text": "He wears spectacles because his eyesight is weak."
+    },
+    {
+      "id": 232,
+      "text": "The guard opened the gate for visitors."
+    },
+    {
+      "id": 233,
+      "text": "I scribbled a quick reminder on my hand."
+    },
+    {
+      "id": 234,
+      "text": "They moved the furniture to clean the carpet."
+    },
+    {
+      "id": 235,
+      "text": "She stitched a button back onto the shirt."
+    },
+    {
+      "id": 236,
+      "text": "We toasted bread slices for breakfast."
+    },
+    {
+      "id": 237,
+      "text": "He measured the length using a ruler."
+    },
+    {
+      "id": 238,
+      "text": "I joined the queue for tickets."
+    },
+    {
+      "id": 239,
+      "text": "She applied oil to her hair."
+    },
+    {
+      "id": 240,
+      "text": "We pushed the trolley through the supermarket."
+    },
+    {
+      "id": 241,
+      "text": "The mechanic cleaned the rusty tools."
+    },
+    {
+      "id": 242,
+      "text": "He yawned because he was very sleepy."
+    },
+    {
+      "id": 243,
+      "text": "We roasted vegetables in the oven."
+    },
+    {
+      "id": 244,
+      "text": "She turned the pages of her notebook."
+    },
+    {
+      "id": 245,
+      "text": "I lit a candle during the power cut."
+    },
+    {
+      "id": 246,
+      "text": "They arranged the chairs in straight rows."
+    },
+    {
+      "id": 247,
+      "text": "The postman rang the bell twice."
+    },
+    {
+      "id": 248,
+      "text": "We tasted the soup before adding salt."
+    },
+    {
+      "id": 249,
+      "text": "She placed her wallet into her handbag."
+    },
+    {
+      "id": 250,
+      "text": "He wiped his glasses with a cloth."
+    },
+    {
+      "id": 251,
+      "text": "We chopped onions for the curry."
+    },
+    {
+      "id": 252,
+      "text": "She soaked the lentils in water overnight."
+    },
+    {
+      "id": 253,
+      "text": "He sealed the envelope with glue."
+    },
+    {
+      "id": 254,
+      "text": "We rolled out the carpet in the hall."
+    },
+    {
+      "id": 255,
+      "text": "She sprayed perfume before leaving."
+    },
+    {
+      "id": 256,
+      "text": "The children hopped across the courtyard."
+    },
+    {
+      "id": 257,
+      "text": "I watched raindrops slide down the window."
+    },
+    {
+      "id": 258,
+      "text": "He stacked the boxes one on top of another."
+    },
+    {
+      "id": 259,
+      "text": "We took turns reading aloud."
+    },
+    {
+      "id": 260,
+      "text": "She coloured the picture with crayons."
+    },
+    {
+      "id": 261,
+      "text": "They replaced the old curtains with new ones."
+    },
+    {
+      "id": 262,
+      "text": "I lifted the lid of the pot carefully."
+    },
+    {
+      "id": 263,
+      "text": "The teacher collected our notebooks."
+    },
+    {
+      "id": 264,
+      "text": "We scrubbed the dishes with soap."
+    },
+    {
+      "id": 265,
+      "text": "She set the timer for ten minutes."
+    },
+    {
+      "id": 266,
+      "text": "He sorted the coins by size."
+    },
+    {
+      "id": 267,
+      "text": "We tasted the biscuits he had baked."
+    },
+    {
+      "id": 268,
+      "text": "She rearranged the furniture for more space."
+    },
+    {
+      "id": 269,
+      "text": "I wrote names on the gift tags."
+    },
+    {
+      "id": 270,
+      "text": "They climbed the stairs slowly."
+    },
+    {
+      "id": 271,
+      "text": "She cleaned the mud off her shoes."
+    },
+    {
+      "id": 272,
+      "text": "We sang songs during assembly."
+    },
+    {
+      "id": 273,
+      "text": "He folded the letter neatly."
+    },
+    {
+      "id": 274,
+      "text": "She squeezed the lemon into the glass."
+    },
+    {
+      "id": 275,
+      "text": "We dried the plates on the rack."
+    },
+    {
+      "id": 276,
+      "text": "He opened the jar with both hands."
+    },
+    {
+      "id": 277,
+      "text": "We built a small tent with blankets."
+    },
+    {
+      "id": 278,
+      "text": "She stored spices in tiny jars."
+    },
+    {
+      "id": 279,
+      "text": "The teacher distributed worksheets."
+    },
+    {
+      "id": 280,
+      "text": "We whispered during the film."
+    },
+    {
+      "id": 281,
+      "text": "He peeled potatoes for dinner."
+    },
+    {
+      "id": 282,
+      "text": "She dipped biscuits into her tea."
+    },
+    {
+      "id": 283,
+      "text": "We washed our hands before lunch."
+    },
+    {
+      "id": 284,
+      "text": "The gardener trimmed the bushes."
+    },
+    {
+      "id": 285,
+      "text": "He carried firewood to the backyard."
+    },
+    {
+      "id": 286,
+      "text": "She posted photos in her album."
+    },
+    {
+      "id": 287,
+      "text": "We cracked eggs into the bowl."
+    },
+    {
+      "id": 288,
+      "text": "He fetched water from the tap."
+    },
+    {
+      "id": 289,
+      "text": "She stitched a small pouch."
+    },
+    {
+      "id": 290,
+      "text": "We hung our wet towels outside."
+    },
+    {
+      "id": 291,
+      "text": "He glued the broken pieces together."
+    },
+    {
+      "id": 292,
+      "text": "She placed a bookmark in her novel."
+    },
+    {
+      "id": 293,
+      "text": "We filled the jug with juice."
+    },
+    {
+      "id": 294,
+      "text": "He dusted the bookshelf."
+    },
+    {
+      "id": 295,
+      "text": "She heated milk on the stove."
+    },
+    {
+      "id": 296,
+      "text": "We stepped over a puddle."
+    },
+    {
+      "id": 297,
+      "text": "He stirred the soup slowly."
+    },
+    {
+      "id": 298,
+      "text": "She checked the calendar for dates."
+    },
+    {
+      "id": 299,
+      "text": "We peeled oranges for everyone."
+    },
+    {
+      "id": 300,
+      "text": "He punched holes in the sheets."
+    },
+    {
+      "id": 301,
+      "text": "She sprinkled cinnamon on the toast."
+    },
+    {
+      "id": 302,
+      "text": "We counted stars in the night sky."
+    },
+    {
+      "id": 303,
+      "text": "The baker kneaded dough for bread."
+    },
+    {
+      "id": 304,
+      "text": "He loaded dishes into the dishwasher."
+    },
+    {
+      "id": 305,
+      "text": "She watered the indoor plants."
+    },
+    {
+      "id": 306,
+      "text": "We tasted the jam he had made."
+    },
+    {
+      "id": 307,
+      "text": "He folded the quilt neatly."
+    },
+    {
+      "id": 308,
+      "text": "She spun the globe with her finger."
+    },
+    {
+      "id": 309,
+      "text": "We blew out the candles."
+    },
+    {
+      "id": 310,
+      "text": "He wiped tears from his eyes."
+    },
+    {
+      "id": 311,
+      "text": "She opened the packet of crisps."
+    },
+    {
+      "id": 312,
+      "text": "We threaded beads to make a bracelet."
+    },
+    {
+      "id": 313,
+      "text": "He scribbled answers in a hurry."
+    },
+    {
+      "id": 314,
+      "text": "She knitted a woollen cap."
+    },
+    {
+      "id": 315,
+      "text": "We cleaned our shoes after sports."
+    },
+    {
+      "id": 316,
+      "text": "He zipped up his jacket."
+    },
+    {
+      "id": 317,
+      "text": "She washed rice before cooking."
+    },
+    {
+      "id": 318,
+      "text": "We stirred sugar into our tea."
+    },
+    {
+      "id": 319,
+      "text": "He tested the microphone."
+    },
+    {
+      "id": 320,
+      "text": "She dried her hair with a towel."
+    },
+    {
+      "id": 321,
+      "text": "We folded paper into paper boats."
+    },
+    {
+      "id": 322,
+      "text": "He carried a torch during the blackout."
+    },
+    {
+      "id": 323,
+      "text": "She wiped the mirror with tissue."
+    },
+    {
+      "id": 324,
+      "text": "We organised the books by subject."
+    },
+    {
+      "id": 325,
+      "text": "He placed his keys in the drawer."
+    },
+    {
+      "id": 326,
+      "text": "She added cream to the sauce."
+    },
+    {
+      "id": 327,
+      "text": "We squeezed paint onto the palette."
+    },
+    {
+      "id": 328,
+      "text": "He stacked bowls neatly in the cupboard."
+    },
+    {
+      "id": 329,
+      "text": "She tasted the curry before serving."
+    },
+    {
+      "id": 330,
+      "text": "We cleaned chalk dust from the board."
+    },
+    {
+      "id": 331,
+      "text": "He wrapped his scarf around his neck."
+    },
+    {
+      "id": 332,
+      "text": "She sharpened coloured pencils."
+    },
+    {
+      "id": 333,
+      "text": "We stirred batter for the cake."
+    },
+    {
+      "id": 334,
+      "text": "He passed the salt shaker."
+    },
+    {
+      "id": 335,
+      "text": "She cooled the porridge before eating."
+    },
+    {
+      "id": 336,
+      "text": "We folded napkins into triangles."
+    },
+    {
+      "id": 337,
+      "text": "He pressed the doorbell twice."
+    },
+    {
+      "id": 338,
+      "text": "She removed seeds from the watermelon."
+    },
+    {
+      "id": 339,
+      "text": "We poured milk into cereal."
+    },
+    {
+      "id": 340,
+      "text": "He turned the tap off tightly."
+    },
+    {
+      "id": 341,
+      "text": "She picked flowers from the garden."
+    },
+    {
+      "id": 342,
+      "text": "We carried torches during camping."
+    },
+    {
+      "id": 343,
+      "text": "He covered the pot with a lid."
+    },
+    {
+      "id": 344,
+      "text": "She squeezed toothpaste on the brush."
+    },
+    {
+      "id": 345,
+      "text": "We washed grapes in cold water."
+    },
+    {
+      "id": 346,
+      "text": "He cracked his knuckles softly."
+    },
+    {
+      "id": 347,
+      "text": "She set the table for dinner."
+    },
+    {
+      "id": 348,
+      "text": "We sorted files into folders."
+    },
+    {
+      "id": 349,
+      "text": "He dipped his brush into paint."
+    },
+    {
+      "id": 350,
+      "text": "She cooled the tea by blowing on it."
+    },
+    {
+      "id": 351,
+      "text": "We packed snacks for the journey."
+    },
+    {
+      "id": 352,
+      "text": "He oiled the bicycle chain."
+    },
+    {
+      "id": 353,
+      "text": "She tied ribbons around the gift boxes."
+    },
+    {
+      "id": 354,
+      "text": "We folded clothes from the laundry."
+    },
+    {
+      "id": 355,
+      "text": "He placed the parcel on the shelf."
+    },
+    {
+      "id": 356,
+      "text": "She zipped her school bag."
+    },
+    {
+      "id": 357,
+      "text": "We peeled bananas for breakfast."
+    },
+    {
+      "id": 358,
+      "text": "He switched off the main light."
+    },
+    {
+      "id": 359,
+      "text": "She arranged bangles in a plastic box."
+    },
+    {
+      "id": 360,
+      "text": "We stirred the milk with a spoon."
+    },
+    {
+      "id": 361,
+      "text": "He erased the scribbles from the wall."
+    },
+    {
+      "id": 362,
+      "text": "She washed lentils before cooking."
+    },
+    {
+      "id": 363,
+      "text": "We stuck labels on our notebooks."
+    },
+    {
+      "id": 364,
+      "text": "He opened a tin of biscuits."
+    },
+    {
+      "id": 365,
+      "text": "She poured batter into the moulds."
+    },
+    {
+      "id": 366,
+      "text": "We cooled the cake on a wire rack."
+    },
+    {
+      "id": 367,
+      "text": "He tidied his bed after waking up."
+    },
+    {
+      "id": 368,
+      "text": "She mixed spices into the curry."
+    },
+    {
+      "id": 369,
+      "text": "We dusted the television stand."
+    },
+    {
+      "id": 370,
+      "text": "He filtered water into bottles."
+    },
+    {
+      "id": 371,
+      "text": "She collected eggs from the basket."
+    },
+    {
+      "id": 372,
+      "text": "We scrubbed stains from the floor."
+    },
+    {
+      "id": 373,
+      "text": "He arranged tools in the toolbox."
+    },
+    {
+      "id": 374,
+      "text": "She toasted peanuts in a pan."
+    },
+    {
+      "id": 375,
+      "text": "We wiped the plates with a clean cloth."
+    },
+    {
+      "id": 376,
+      "text": "He blew air into the balloons."
+    },
+    {
+      "id": 377,
+      "text": "She rolled dough to make rotis."
+    },
+    {
+      "id": 378,
+      "text": "We painted stones for craft."
+    },
+    {
+      "id": 379,
+      "text": "He polished his shoes for school."
+    },
+    {
+      "id": 380,
+      "text": "She washed apples in the sink."
+    },
+    {
+      "id": 381,
+      "text": "We folded newspapers for recycling."
+    },
+    {
+      "id": 382,
+      "text": "He stuck photos in the scrapbook."
+    },
+    {
+      "id": 383,
+      "text": "She greased the baking tray."
+    },
+    {
+      "id": 384,
+      "text": "We poured juice from the carton."
+    },
+    {
+      "id": 385,
+      "text": "He sliced cucumbers for salad."
+    },
+    {
+      "id": 386,
+      "text": "She arranged cushions on the sofa."
+    },
+    {
+      "id": 387,
+      "text": "We steamed vegetables in the cooker."
+    },
+    {
+      "id": 388,
+      "text": "He pulled the curtains aside."
+    },
+    {
+      "id": 389,
+      "text": "She cleared crumbs from the table."
+    },
+    {
+      "id": 390,
+      "text": "We washed our lunchboxes."
+    },
+    {
+      "id": 391,
+      "text": "He crushed garlic for cooking."
+    },
+    {
+      "id": 392,
+      "text": "She placed flowers near the window."
+    },
+    {
+      "id": 393,
+      "text": "We washed spoons and forks."
+    },
+    {
+      "id": 394,
+      "text": "He stirred honey into warm water."
+    },
+    {
+      "id": 395,
+      "text": "She folded the bedsheets neatly."
+    },
+    {
+      "id": 396,
+      "text": "We packed empty bottles for recycling."
+    },
+    {
+      "id": 397,
+      "text": "He wiped sweat from his forehead."
+    },
+    {
+      "id": 398,
+      "text": "She closed the drawer quietly."
+    },
+    {
+      "id": 399,
+      "text": "We heated soup on the stove."
+    },
+    {
+      "id": 400,
+      "text": "He tested the torch batteries."
+    },
+    {
+      "id": 401,
+      "text": "He folded his trousers neatly."
+    },
+    {
+      "id": 402,
+      "text": "She ironed the school uniform."
+    },
+    {
+      "id": 403,
+      "text": "We sorted socks from the laundry."
+    },
+    {
+      "id": 404,
+      "text": "He polished the tap with a cloth."
+    },
+    {
+      "id": 405,
+      "text": "She wiped the dining chairs."
+    },
+    {
+      "id": 406,
+      "text": "We dried our wet hair in the sun."
+    },
+    {
+      "id": 407,
+      "text": "He washed pillow covers."
+    },
+    {
+      "id": 408,
+      "text": "She placed blankets in the cupboard."
+    },
+    {
+      "id": 409,
+      "text": "We beat the cushions outdoors."
+    },
+    {
+      "id": 410,
+      "text": "He aired the mattresses in daylight."
+    },
+    {
+      "id": 411,
+      "text": "She wiped dust from the window sill."
+    },
+    {
+      "id": 412,
+      "text": "We shook the rugs outside."
+    },
+    {
+      "id": 413,
+      "text": "He folded towels after washing."
+    },
+    {
+      "id": 414,
+      "text": "She set the pillows properly."
+    },
+    {
+      "id": 415,
+      "text": "We cleaned cobwebs with a long broom."
+    },
+    {
+      "id": 416,
+      "text": "He replaced the empty soap bottle."
+    },
+    {
+      "id": 417,
+      "text": "She rearranged items on the shelf."
+    },
+    {
+      "id": 418,
+      "text": "We wrapped fragile things in paper."
+    },
+    {
+      "id": 419,
+      "text": "He labelled the storage boxes."
+    },
+    {
+      "id": 420,
+      "text": "She sprayed air freshener in the room."
+    },
+    {
+      "id": 421,
+      "text": "We replaced old bulbs with new ones."
+    },
+    {
+      "id": 422,
+      "text": "He screwed the hook into the wall."
+    },
+    {
+      "id": 423,
+      "text": "She hung photos in wooden frames."
+    },
+    {
+      "id": 424,
+      "text": "We wiped fingerprints from the mirror."
+    },
+    {
+      "id": 425,
+      "text": "He checked the ceiling fan for dust."
+    },
+    {
+      "id": 426,
+      "text": "She straightened the carpet edges."
+    },
+    {
+      "id": 427,
+      "text": "We rolled up the yoga mat."
+    },
+    {
+      "id": 428,
+      "text": "He folded the mosquito net."
+    },
+    {
+      "id": 429,
+      "text": "She packed extra pillows for guests."
+    },
+    {
+      "id": 430,
+      "text": "We tied newspapers with a string."
+    },
+    {
+      "id": 431,
+      "text": "He stacked plastic containers neatly."
+    },
+    {
+      "id": 432,
+      "text": "She cleaned the drawer organisers."
+    },
+    {
+      "id": 433,
+      "text": "We arranged toys in baskets."
+    },
+    {
+      "id": 434,
+      "text": "He wiped the wardrobe handles."
+    },
+    {
+      "id": 435,
+      "text": "She tapped pillows to fluff them."
+    },
+    {
+      "id": 436,
+      "text": "We folded bedsheets into squares."
+    },
+    {
+      "id": 437,
+      "text": "He placed quilts on the upper shelf."
+    },
+    {
+      "id": 438,
+      "text": "She wiped table mats after dinner."
+    },
+    {
+      "id": 439,
+      "text": "We removed labels from new containers."
+    },
+    {
+      "id": 440,
+      "text": "He inflated the football."
+    },
+    {
+      "id": 441,
+      "text": "She patched a hole in the tyre."
+    },
+    {
+      "id": 442,
+      "text": "We cleaned our school shoes."
+    },
+    {
+      "id": 443,
+      "text": "He aired his sports jersey."
+    },
+    {
+      "id": 444,
+      "text": "She stitched a rip in her bag."
+    },
+    {
+      "id": 445,
+      "text": "We removed lint from our sweaters."
+    },
+    {
+      "id": 446,
+      "text": "He washed his cricket kit."
+    },
+    {
+      "id": 447,
+      "text": "She folded scarves and shawls."
+    },
+    {
+      "id": 448,
+      "text": "We kept woollens inside storage bags."
+    },
+    {
+      "id": 449,
+      "text": "He zipped the duffel bag."
+    },
+    {
+      "id": 450,
+      "text": "She placed keys on the key holder."
+    },
+    {
+      "id": 451,
+      "text": "We checked the battery level of the torch."
+    },
+    {
+      "id": 452,
+      "text": "He repaired the loose drawer."
+    },
+    {
+      "id": 453,
+      "text": "She swept the balcony floor."
+    },
+    {
+      "id": 454,
+      "text": "We watered the potted plants."
+    },
+    {
+      "id": 455,
+      "text": "He trimmed the garden grass."
+    },
+    {
+      "id": 456,
+      "text": "She picked dry leaves from the pathway."
+    },
+    {
+      "id": 457,
+      "text": "We placed pebbles around the plants."
+    },
+    {
+      "id": 458,
+      "text": "He cleaned the gardening tools."
+    },
+    {
+      "id": 459,
+      "text": "She tied the vines to sticks."
+    },
+    {
+      "id": 460,
+      "text": "We sprayed water on the leaves."
+    },
+    {
+      "id": 461,
+      "text": "He shook the garden mat."
+    },
+    {
+      "id": 462,
+      "text": "She planted herbs in small pots."
+    },
+    {
+      "id": 463,
+      "text": "We placed seedlings in the soil."
+    },
+    {
+      "id": 464,
+      "text": "He covered the pots with mulch."
+    },
+    {
+      "id": 465,
+      "text": "She sprinkled fertiliser lightly."
+    },
+    {
+      "id": 466,
+      "text": "We removed weeds from the soil."
+    },
+    {
+      "id": 467,
+      "text": "He checked the plants for insects."
+    },
+    {
+      "id": 468,
+      "text": "She collected seeds for the next season."
+    },
+    {
+      "id": 469,
+      "text": "We stored extra pots in the corner."
+    },
+    {
+      "id": 470,
+      "text": "He washed muddy shoes with soap."
+    },
+    {
+      "id": 471,
+      "text": "She dried the shoes in sunlight."
+    },
+    {
+      "id": 472,
+      "text": "We placed umbrellas near the door."
+    },
+    {
+      "id": 473,
+      "text": "He rolled up the raincoat."
+    },
+    {
+      "id": 474,
+      "text": "She stored winter hats in a drawer."
+    },
+    {
+      "id": 475,
+      "text": "We folded heavy blankets."
+    },
+    {
+      "id": 476,
+      "text": "He stored holiday decorations."
+    },
+    {
+      "id": 477,
+      "text": "She wiped candle wax from the table."
+    },
+    {
+      "id": 478,
+      "text": "We organised wires and chargers."
+    },
+    {
+      "id": 479,
+      "text": "He labelled the spare cables."
+    },
+    {
+      "id": 480,
+      "text": "She arranged stationery in a box."
+    },
+    {
+      "id": 481,
+      "text": "We sharpened colour pencils."
+    },
+    {
+      "id": 482,
+      "text": "He refilled the glue bottle."
+    },
+    {
+      "id": 483,
+      "text": "She cut paper into shapes."
+    },
+    {
+      "id": 484,
+      "text": "We pasted pictures into a scrapbook."
+    },
+    {
+      "id": 485,
+      "text": "He sorted sketch pens by colour."
+    },
+    {
+      "id": 486,
+      "text": "She tied ribbons around craft bundles."
+    },
+    {
+      "id": 487,
+      "text": "We punctured holes using a punch."
+    },
+    {
+      "id": 488,
+      "text": "He traced outlines with a pencil."
+    },
+    {
+      "id": 489,
+      "text": "She glittered the edges of the card."
+    },
+    {
+      "id": 490,
+      "text": "We sealed envelopes for posting."
+    },
+    {
+      "id": 491,
+      "text": "He wrote names on the envelopes."
+    },
+    {
+      "id": 492,
+      "text": "She pasted stamps on letters."
+    },
+    {
+      "id": 493,
+      "text": "We walked to the post box together."
+    },
+    {
+      "id": 494,
+      "text": "He dropped the letters inside."
+    },
+    {
+      "id": 495,
+      "text": "She waved at the postman."
+    },
+    {
+      "id": 496,
+      "text": "We carried parcels to the shop."
+    },
+    {
+      "id": 497,
+      "text": "He weighed the parcel on the scale."
+    },
+    {
+      "id": 498,
+      "text": "She paid the postage fee."
+    },
+    {
+      "id": 499,
+      "text": "We collected the receipt."
+    },
+    {
+      "id": 500,
+      "text": "He stored the receipt safely."
+    },
+    {
+      "id": 501,
+      "text": "She clipped papers with a binder clip."
+    },
+    {
+      "id": 502,
+      "text": "We stapled sheets for school."
+    },
+    {
+      "id": 503,
+      "text": "He kept files in alphabetical order."
+    },
+    {
+      "id": 504,
+      "text": "She placed documents in clear folders."
+    },
+    {
+      "id": 505,
+      "text": "We highlighted important lines."
+    },
+    {
+      "id": 506,
+      "text": "He erased pencil marks neatly."
+    },
+    {
+      "id": 507,
+      "text": "She removed old stickers."
+    },
+    {
+      "id": 508,
+      "text": "We sharpened drawing pencils."
+    },
+    {
+      "id": 509,
+      "text": "He refilled the ink pen."
+    },
+    {
+      "id": 510,
+      "text": "She blew dust off the rulers."
+    },
+    {
+      "id": 511,
+      "text": "We pressed flowers in books."
+    },
+    {
+      "id": 512,
+      "text": "He pinned notes on a cork board."
+    },
+    {
+      "id": 513,
+      "text": "She arranged name tags on the desk."
+    },
+    {
+      "id": 514,
+      "text": "We clipped photos onto string."
+    },
+    {
+      "id": 515,
+      "text": "He tested the calculator."
+    },
+    {
+      "id": 516,
+      "text": "She counted pages in her notebook."
+    },
+    {
+      "id": 517,
+      "text": "We organised stamps in albums."
+    },
+    {
+      "id": 518,
+      "text": "He sealed plastic bags for storage."
+    },
+    {
+      "id": 519,
+      "text": "She folded cardboard sheets."
+    },
+    {
+      "id": 520,
+      "text": "We glued small decorations."
+    },
+    {
+      "id": 521,
+      "text": "He separated blank sheets."
+    },
+    {
+      "id": 522,
+      "text": "She threaded wool through a needle."
+    },
+    {
+      "id": 523,
+      "text": "We rolled yarn into balls."
+    },
+    {
+      "id": 524,
+      "text": "He cut fabric for stitching."
+    },
+    {
+      "id": 525,
+      "text": "She pressed seams with an iron."
+    },
+    {
+      "id": 526,
+      "text": "We sorted fabric scraps by size."
+    },
+    {
+      "id": 527,
+      "text": "He folded napkins into flowers."
+    },
+    {
+      "id": 528,
+      "text": "She hung quilts on the balcony."
+    },
+    {
+      "id": 529,
+      "text": "We labelled paint bottles."
+    },
+    {
+      "id": 530,
+      "text": "He mixed watercolours in a palette."
+    },
+    {
+      "id": 531,
+      "text": "She cleaned paintbrush bristles."
+    },
+    {
+      "id": 532,
+      "text": "We dried artwork under the fan."
+    },
+    {
+      "id": 533,
+      "text": "He stuck stickers on his book."
+    },
+    {
+      "id": 534,
+      "text": "She punched shapes using a punch tool."
+    },
+    {
+      "id": 535,
+      "text": "We arranged greeting cards."
+    },
+    {
+      "id": 536,
+      "text": "He counted beads for jewellery."
+    },
+    {
+      "id": 537,
+      "text": "She threaded tiny beads carefully."
+    },
+    {
+      "id": 538,
+      "text": "We wrapped completed crafts."
+    },
+    {
+      "id": 539,
+      "text": "He tied bows on gift boxes."
+    },
+    {
+      "id": 540,
+      "text": "She traced stencils on paper."
+    },
+    {
+      "id": 541,
+      "text": "We stored finished art projects."
+    },
+    {
+      "id": 542,
+      "text": "He swept tiny bits of paper."
+    },
+    {
+      "id": 543,
+      "text": "She wiped glue from the table."
+    },
+    {
+      "id": 544,
+      "text": "We collected extra ribbons."
+    },
+    {
+      "id": 545,
+      "text": "He tested the stapler."
+    },
+    {
+      "id": 546,
+      "text": "She carried paints to the cupboard."
+    },
+    {
+      "id": 547,
+      "text": "We zipped the craft bag."
+    },
+    {
+      "id": 548,
+      "text": "He organised the pencils."
+    },
+    {
+      "id": 549,
+      "text": "She dried the brushes in sunlight."
+    },
+    {
+      "id": 550,
+      "text": "We placed canvas boards near the shelf."
+    },
+    {
+      "id": 551,
+      "text": "He filled water cups for painting."
+    },
+    {
+      "id": 552,
+      "text": "She squeezed paint into tubes."
+    },
+    {
+      "id": 553,
+      "text": "We removed tape from the artwork."
+    },
+    {
+      "id": 554,
+      "text": "He folded the drawing sheets."
+    },
+    {
+      "id": 555,
+      "text": "She displayed paintings on the wall."
+    },
+    {
+      "id": 556,
+      "text": "We cleaned chalk dust."
+    },
+    {
+      "id": 557,
+      "text": "He stacked cardboard neatly."
+    },
+    {
+      "id": 558,
+      "text": "She removed stains using soap."
+    },
+    {
+      "id": 559,
+      "text": "We collected dried flowers."
+    },
+    {
+      "id": 560,
+      "text": "He tied them into bundles."
+    },
+    {
+      "id": 561,
+      "text": "She hung them upside down to dry."
+    },
+    {
+      "id": 562,
+      "text": "We crushed dried petals."
+    },
+    {
+      "id": 563,
+      "text": "He stored them in small bottles."
+    },
+    {
+      "id": 564,
+      "text": "She wrote labels for each bottle."
+    },
+    {
+      "id": 565,
+      "text": "We arranged them on a tray."
+    },
+    {
+      "id": 566,
+      "text": "He wrapped them in tissue paper."
+    },
+    {
+      "id": 567,
+      "text": "She tied the bundle with twine."
+    },
+    {
+      "id": 568,
+      "text": "We carried the package safely."
+    },
+    {
+      "id": 569,
+      "text": "He placed it in a storage box."
+    },
+    {
+      "id": 570,
+      "text": "She wrote the date on top."
+    },
+    {
+      "id": 571,
+      "text": "We cleaned the working table."
+    },
+    {
+      "id": 572,
+      "text": "He dusted the shelves neatly."
+    },
+    {
+      "id": 573,
+      "text": "She wiped the tools and packed them."
+    },
+    {
+      "id": 574,
+      "text": "We checked if anything was missing."
+    },
+    {
+      "id": 575,
+      "text": "He turned off the table lamp."
+    },
+    {
+      "id": 576,
+      "text": "She locked the drawer."
+    },
+    {
+      "id": 577,
+      "text": "We closed the storage cupboard."
+    },
+    {
+      "id": 578,
+      "text": "He switched off the fan."
+    },
+    {
+      "id": 579,
+      "text": "She washed her hands after working."
+    },
+    {
+      "id": 580,
+      "text": "We drank water to refresh."
+    },
+    {
+      "id": 581,
+      "text": "He looked out of the window."
+    },
+    {
+      "id": 582,
+      "text": "She pointed at birds on the wires."
+    },
+    {
+      "id": 583,
+      "text": "We counted cars on the road."
+    },
+    {
+      "id": 584,
+      "text": "He watched the clouds float by."
+    },
+    {
+      "id": 585,
+      "text": "She listened to the wind."
+    },
+    {
+      "id": 586,
+      "text": "We opened the window for fresh air."
+    },
+    {
+      "id": 587,
+      "text": "He watered the balcony plants."
+    },
+    {
+      "id": 588,
+      "text": "She rearranged potted herbs."
+    },
+    {
+      "id": 589,
+      "text": "We sprayed the leaves lightly."
+    },
+    {
+      "id": 590,
+      "text": "He tightened the plant stands."
+    },
+    {
+      "id": 591,
+      "text": "She swept fallen leaves away."
+    },
+    {
+      "id": 592,
+      "text": "We emptied the watering can."
+    },
+    {
+      "id": 593,
+      "text": "He stacked empty pots."
+    },
+    {
+      "id": 594,
+      "text": "She folded the garden mat."
+    },
+    {
+      "id": 595,
+      "text": "We locked the balcony door."
+    },
+    {
+      "id": 596,
+      "text": "He switched off the garden light."
+    },
+    {
+      "id": 597,
+      "text": "She collected the mail from the gate."
+    },
+    {
+      "id": 598,
+      "text": "We sorted letters and parcels."
+    },
+    {
+      "id": 599,
+      "text": "He placed them on the table."
+    },
+    {
+      "id": 600,
+      "text": "She opened a letter with a cutter."
+    },
+    {
+      "id": 601,
+      "text": "We checked who the letter was from."
+    },
+    {
+      "id": 602,
+      "text": "He read the message aloud."
+    },
+    {
+      "id": 603,
+      "text": "She folded the letter carefully."
+    },
+    {
+      "id": 604,
+      "text": "We placed it back in the envelope."
+    },
+    {
+      "id": 605,
+      "text": "He kept it in the drawer for safekeeping."
+    },
+    {
+      "id": 606,
+      "text": "She tore the junk mail and threw it away."
+    },
+    {
+      "id": 607,
+      "text": "We flattened the cardboard boxes."
+    },
+    {
+      "id": 608,
+      "text": "He stacked them near the recycling bin."
+    },
+    {
+      "id": 609,
+      "text": "She separated glass bottles from plastic."
+    },
+    {
+      "id": 610,
+      "text": "We carried the recycling bags outside."
+    },
+    {
+      "id": 611,
+      "text": "He pulled the dustbin to the gate."
+    },
+    {
+      "id": 612,
+      "text": "She tied the garbage bag tightly."
+    },
+    {
+      "id": 613,
+      "text": "We placed compost scraps in the bin."
+    },
+    {
+      "id": 614,
+      "text": "He washed the bin with a hose."
+    },
+    {
+      "id": 615,
+      "text": "She kept the bin out to dry."
+    },
+    {
+      "id": 616,
+      "text": "We wiped the kitchen counter."
+    },
+    {
+      "id": 617,
+      "text": "He disinfected the sink."
+    },
+    {
+      "id": 618,
+      "text": "She washed the chopping boards."
+    },
+    {
+      "id": 619,
+      "text": "We put the dishes back in place."
+    },
+    {
+      "id": 620,
+      "text": "He dried the kitchen towels."
+    },
+    {
+      "id": 621,
+      "text": "She arranged spices in order."
+    },
+    {
+      "id": 622,
+      "text": "We labelled containers with stickers."
+    },
+    {
+      "id": 623,
+      "text": "He replaced the empty salt box."
+    },
+    {
+      "id": 624,
+      "text": "She cleaned the fridge handle."
+    },
+    {
+      "id": 625,
+      "text": "We threw out expired items."
+    },
+    {
+      "id": 626,
+      "text": "He peeled stickers off containers."
+    },
+    {
+      "id": 627,
+      "text": "She washed fruit baskets."
+    },
+    {
+      "id": 628,
+      "text": "We wiped the stove knobs."
+    },
+    {
+      "id": 629,
+      "text": "He closed the flour jar properly."
+    },
+    {
+      "id": 630,
+      "text": "She filled water into ice trays."
+    },
+    {
+      "id": 631,
+      "text": "We loaded water bottles for cooling."
+    },
+    {
+      "id": 632,
+      "text": "He wiped oil spills from the counter."
+    },
+    {
+      "id": 633,
+      "text": "She stacked bowls inside one another."
+    },
+    {
+      "id": 634,
+      "text": "We mopped the kitchen tiles."
+    },
+    {
+      "id": 635,
+      "text": "He replaced the gas lighter."
+    },
+    {
+      "id": 636,
+      "text": "She checked if the stove was off."
+    },
+    {
+      "id": 637,
+      "text": "We switched off the mixer."
+    },
+    {
+      "id": 638,
+      "text": "He wrapped leftover food."
+    },
+    {
+      "id": 639,
+      "text": "She placed it in the fridge."
+    },
+    {
+      "id": 640,
+      "text": "We washed our hands afterwards."
+    },
+    {
+      "id": 641,
+      "text": "He switched on the exhaust fan."
+    },
+    {
+      "id": 642,
+      "text": "She measured rice for cooking."
+    },
+    {
+      "id": 643,
+      "text": "We set the kitchen timer."
+    },
+    {
+      "id": 644,
+      "text": "He grated ginger for chutney."
+    },
+    {
+      "id": 645,
+      "text": "She minced garlic carefully."
+    },
+    {
+      "id": 646,
+      "text": "We fried spices until fragrant."
+    },
+    {
+      "id": 647,
+      "text": "He stirred lentils into the pot."
+    },
+    {
+      "id": 648,
+      "text": "She served rice on the plates."
+    },
+    {
+      "id": 649,
+      "text": "We sprinkled coriander on top."
+    },
+    {
+      "id": 650,
+      "text": "He placed spoons on the plates."
+    },
+    {
+      "id": 651,
+      "text": "She asked if everyone was hungry."
+    },
+    {
+      "id": 652,
+      "text": "We sat together to eat."
+    },
+    {
+      "id": 653,
+      "text": "He poured drinking water for everyone."
+    },
+    {
+      "id": 654,
+      "text": "She tasted the curry first."
+    },
+    {
+      "id": 655,
+      "text": "We ate slowly while talking."
+    },
+    {
+      "id": 656,
+      "text": "He passed the pickle jar."
+    },
+    {
+      "id": 657,
+      "text": "She added salt to her food."
+    },
+    {
+      "id": 658,
+      "text": "We cleared the plates after finishing."
+    },
+    {
+      "id": 659,
+      "text": "He stacked them in the sink."
+    },
+    {
+      "id": 660,
+      "text": "She washed the utensils."
+    },
+    {
+      "id": 661,
+      "text": "We wiped the dining table."
+    },
+    {
+      "id": 662,
+      "text": "He moved the chairs back."
+    },
+    {
+      "id": 663,
+      "text": "She switched off the fan."
+    },
+    {
+      "id": 664,
+      "text": "We closed the curtains."
+    },
+    {
+      "id": 665,
+      "text": "He turned off the lights."
+    },
+    {
+      "id": 666,
+      "text": "She locked the main door."
+    },
+    {
+      "id": 667,
+      "text": "We went to the living room."
+    },
+    {
+      "id": 668,
+      "text": "He changed the television channel."
+    },
+    {
+      "id": 669,
+      "text": "She adjusted the volume."
+    },
+    {
+      "id": 670,
+      "text": "We watched the news together."
+    },
+    {
+      "id": 671,
+      "text": "He muted the advertisement."
+    },
+    {
+      "id": 672,
+      "text": "She checked her phone messages."
+    },
+    {
+      "id": 673,
+      "text": "We discussed the news stories."
+    },
+    {
+      "id": 674,
+      "text": "He stretched his legs on the footstool."
+    },
+    {
+      "id": 675,
+      "text": "She covered herself with a blanket."
+    },
+    {
+      "id": 676,
+      "text": "We switched to a comedy show."
+    },
+    {
+      "id": 677,
+      "text": "He laughed at the jokes."
+    },
+    {
+      "id": 678,
+      "text": "She clapped at a funny scene."
+    },
+    {
+      "id": 679,
+      "text": "We paused to get snacks."
+    },
+    {
+      "id": 680,
+      "text": "He opened a packet of crisps."
+    },
+    {
+      "id": 681,
+      "text": "She brought a bowl for them."
+    },
+    {
+      "id": 682,
+      "text": "We poured crisps into the bowl."
+    },
+    {
+      "id": 683,
+      "text": "He filled glasses with lemonade."
+    },
+    {
+      "id": 684,
+      "text": "She passed the glasses around."
+    },
+    {
+      "id": 685,
+      "text": "We resumed the show."
+    },
+    {
+      "id": 686,
+      "text": "He lowered the brightness of the screen."
+    },
+    {
+      "id": 687,
+      "text": "She adjusted the pillows behind her."
+    },
+    {
+      "id": 688,
+      "text": "We watched quietly."
+    },
+    {
+      "id": 689,
+      "text": "He switched channels again."
+    },
+    {
+      "id": 690,
+      "text": "She found a documentary."
+    },
+    {
+      "id": 691,
+      "text": "We decided to watch it."
+    },
+    {
+      "id": 692,
+      "text": "He took notes for school."
+    },
+    {
+      "id": 693,
+      "text": "She paused to explain something."
+    },
+    {
+      "id": 694,
+      "text": "We talked about the topic."
+    },
+    {
+      "id": 695,
+      "text": "He fast-forwarded the boring parts."
+    },
+    {
+      "id": 696,
+      "text": "She rewound a clip to watch again."
+    },
+    {
+      "id": 697,
+      "text": "We switched off the television after finishing."
+    },
+    {
+      "id": 698,
+      "text": "He folded the blanket."
+    },
+    {
+      "id": 699,
+      "text": "She placed the remotes together."
+    },
+    {
+      "id": 700,
+      "text": "We switched off the main switch."
+    },
+    {
+      "id": 701,
+      "text": "He brushed his teeth before bed."
+    },
+    {
+      "id": 702,
+      "text": "She washed her face."
+    },
+    {
+      "id": 703,
+      "text": "We changed into night clothes."
+    },
+    {
+      "id": 704,
+      "text": "He combed his hair."
+    },
+    {
+      "id": 705,
+      "text": "She tied her hair loosely."
+    },
+    {
+      "id": 706,
+      "text": "We applied moisturiser."
+    },
+    {
+      "id": 707,
+      "text": "He set an alarm for the morning."
+    },
+    {
+      "id": 708,
+      "text": "She put her phone on silent."
+    },
+    {
+      "id": 709,
+      "text": "We filled a bottle of water for the night."
+    },
+    {
+      "id": 710,
+      "text": "He checked if all doors were locked."
+    },
+    {
+      "id": 711,
+      "text": "She switched off unwanted lights."
+    },
+    {
+      "id": 712,
+      "text": "We climbed into our beds."
+    },
+    {
+      "id": 713,
+      "text": "He adjusted his blanket."
+    },
+    {
+      "id": 714,
+      "text": "She fluffed her pillow."
+    },
+    {
+      "id": 715,
+      "text": "We wished each other good night."
+    },
+    {
+      "id": 716,
+      "text": "He turned off the bedside lamp."
+    },
+    {
+      "id": 717,
+      "text": "She looked at the ceiling quietly."
+    },
+    {
+      "id": 718,
+      "text": "We listened to dogs barking outside."
+    },
+    {
+      "id": 719,
+      "text": "He closed his eyes slowly."
+    },
+    {
+      "id": 720,
+      "text": "She fell asleep early."
+    },
+    {
+      "id": 721,
+      "text": "We woke up to birds chirping."
+    },
+    {
+      "id": 722,
+      "text": "He checked the time on his phone."
+    },
+    {
+      "id": 723,
+      "text": "She opened the curtains."
+    },
+    {
+      "id": 724,
+      "text": "We let sunlight into the room."
+    },
+    {
+      "id": 725,
+      "text": "He made his bed neatly."
+    },
+    {
+      "id": 726,
+      "text": "She stretched her arms."
+    },
+    {
+      "id": 727,
+      "text": "We folded our nightclothes."
+    },
+    {
+      "id": 728,
+      "text": "He brushed his teeth again."
+    },
+    {
+      "id": 729,
+      "text": "She washed her face with cold water."
+    },
+    {
+      "id": 730,
+      "text": "We combed our hair."
+    },
+    {
+      "id": 731,
+      "text": "He changed into fresh clothes."
+    },
+    {
+      "id": 732,
+      "text": "She picked an outfit from the wardrobe."
+    },
+    {
+      "id": 733,
+      "text": "We prepared for the day."
+    },
+    {
+      "id": 734,
+      "text": "He made tea in the kitchen."
+    },
+    {
+      "id": 735,
+      "text": "She boiled milk for breakfast."
+    },
+    {
+      "id": 736,
+      "text": "We toasted bread."
+    },
+    {
+      "id": 737,
+      "text": "He sliced bananas for porridge."
+    },
+    {
+      "id": 738,
+      "text": "She placed breakfast on the table."
+    },
+    {
+      "id": 739,
+      "text": "We sat down together to eat."
+    },
+    {
+      "id": 740,
+      "text": "He read the newspaper."
+    },
+    {
+      "id": 741,
+      "text": "She checked her messages."
+    },
+    {
+      "id": 742,
+      "text": "We discussed our plans for the day."
+    },
+    {
+      "id": 743,
+      "text": "He packed his bag."
+    },
+    {
+      "id": 744,
+      "text": "She filled her bottle with water."
+    },
+    {
+      "id": 745,
+      "text": "We wore our shoes."
+    },
+    {
+      "id": 746,
+      "text": "He locked the door."
+    },
+    {
+      "id": 747,
+      "text": "She checked for keys again."
+    },
+    {
+      "id": 748,
+      "text": "We walked to the bus stop."
+    },
+    {
+      "id": 749,
+      "text": "He waited under the shade."
+    },
+    {
+      "id": 750,
+      "text": "She checked the bus timetable."
+    },
+    {
+      "id": 751,
+      "text": "We waved at the approaching bus."
+    },
+    {
+      "id": 752,
+      "text": "He stepped in carefully."
+    },
+    {
+      "id": 753,
+      "text": "She found a seat near the window."
+    },
+    {
+      "id": 754,
+      "text": "We placed our bags on our laps."
+    },
+    {
+      "id": 755,
+      "text": "He watched people outside."
+    },
+    {
+      "id": 756,
+      "text": "She looked at the passing cars."
+    },
+    {
+      "id": 757,
+      "text": "We reached our stop and got down."
+    },
+    {
+      "id": 758,
+      "text": "He thanked the conductor."
+    },
+    {
+      "id": 759,
+      "text": "She crossed the road carefully."
+    },
+    {
+      "id": 760,
+      "text": "We walked towards school."
+    },
+    {
+      "id": 761,
+      "text": "He greeted his classmates."
+    },
+    {
+      "id": 762,
+      "text": "She arranged her notebooks."
+    },
+    {
+      "id": 763,
+      "text": "We waited for the teacher to arrive."
+    },
+    {
+      "id": 764,
+      "text": "He opened his textbook."
+    },
+    {
+      "id": 765,
+      "text": "She sharpened her pencils."
+    },
+    {
+      "id": 766,
+      "text": "We listened to the lesson."
+    },
+    {
+      "id": 767,
+      "text": "He raised his hand to answer."
+    },
+    {
+      "id": 768,
+      "text": "She solved problems on the board."
+    },
+    {
+      "id": 769,
+      "text": "We took notes neatly."
+    },
+    {
+      "id": 770,
+      "text": "He checked the homework."
+    },
+    {
+      "id": 771,
+      "text": "She asked for clarification."
+    },
+    {
+      "id": 772,
+      "text": "We read the chapter aloud."
+    },
+    {
+      "id": 773,
+      "text": "He joined the group activity."
+    },
+    {
+      "id": 774,
+      "text": "She helped her partner."
+    },
+    {
+      "id": 775,
+      "text": "We answered questions."
+    },
+    {
+      "id": 776,
+      "text": "He completed his classwork."
+    },
+    {
+      "id": 777,
+      "text": "She submitted her notebook."
+    },
+    {
+      "id": 778,
+      "text": "We packed our bags."
+    },
+    {
+      "id": 779,
+      "text": "He left the classroom."
+    },
+    {
+      "id": 780,
+      "text": "She washed her hands before lunch."
+    },
+    {
+      "id": 781,
+      "text": "We opened our lunch boxes."
+    },
+    {
+      "id": 782,
+      "text": "He shared snacks with friends."
+    },
+    {
+      "id": 783,
+      "text": "She exchanged biscuits for crisps."
+    },
+    {
+      "id": 784,
+      "text": "We talked while eating."
+    },
+    {
+      "id": 785,
+      "text": "He wiped his mouth with a tissue."
+    },
+    {
+      "id": 786,
+      "text": "She closed her tiffin box."
+    },
+    {
+      "id": 787,
+      "text": "We drank water."
+    },
+    {
+      "id": 788,
+      "text": "He washed his spoon."
+    },
+    {
+      "id": 789,
+      "text": "She zipped her lunchbag."
+    },
+    {
+      "id": 790,
+      "text": "We went back to class."
+    },
+    {
+      "id": 791,
+      "text": "He listened to the next lesson."
+    },
+    {
+      "id": 792,
+      "text": "She flipped pages carefully."
+    },
+    {
+      "id": 793,
+      "text": "We filled our notebooks."
+    },
+    {
+      "id": 794,
+      "text": "He handed over his worksheet."
+    },
+    {
+      "id": 795,
+      "text": "She collected materials for art class."
+    },
+    {
+      "id": 796,
+      "text": "We drew trees and houses."
+    },
+    {
+      "id": 797,
+      "text": "He coloured the drawings."
+    },
+    {
+      "id": 798,
+      "text": "She glued small shapes."
+    },
+    {
+      "id": 799,
+      "text": "We displayed our work on the wall."
+    },
+    {
+      "id": 800,
+      "text": "He cleaned the desk before leaving."
+    }
+  ],
+    "intermediate":[
+    {
+      "id": 1,
+      "text": "She volunteers at an animal shelter on weekends."
+    },
+    {
+      "id": 2,
+      "text": "He prefers coffee without sugar in the mornings."
+    },
+    {
+      "id": 3,
+      "text": "They renovated their entire house last year."
+    },
+    {
+      "id": 4,
+      "text": "She attends yoga classes twice a week."
+    },
+    {
+      "id": 5,
+      "text": "He misplaced his spectacles somewhere in the living room."
+    },
+    {
+      "id": 6,
+      "text": "We discussed the plan before starting the project."
+    },
+    {
+      "id": 7,
+      "text": "She often forgets to water her indoor plants."
+    },
+    {
+      "id": 8,
+      "text": "He donated his old clothes to charity."
+    },
+    {
+      "id": 9,
+      "text": "They travel abroad at least once a year."
+    },
+    {
+      "id": 10,
+      "text": "She relied on maps because she disliked asking for directions."
+    },
+    {
+      "id": 11,
+      "text": "He joined the meeting from a caf\u00e9 because of the noise at home."
+    },
+    {
+      "id": 12,
+      "text": "She booked her flight tickets well in advance."
+    },
+    {
+      "id": 13,
+      "text": "They invited all their neighbours to the celebration."
+    },
+    {
+      "id": 14,
+      "text": "He commutes to work by train every morning."
+    },
+    {
+      "id": 15,
+      "text": "She avoids junk food because it makes her feel sluggish."
+    },
+    {
+      "id": 16,
+      "text": "They adopted a puppy from the rescue centre."
+    },
+    {
+      "id": 17,
+      "text": "He forgot to renew his driving licence."
+    },
+    {
+      "id": 18,
+      "text": "She misplaced the receipt for the refund."
+    },
+    {
+      "id": 19,
+      "text": "We rearranged the entire living room."
+    },
+    {
+      "id": 20,
+      "text": "He installed new shelves in his study."
+    },
+    {
+      "id": 21,
+      "text": "She upgraded her phone after three years."
+    },
+    {
+      "id": 22,
+      "text": "They refurbished their old furniture instead of buying new ones."
+    },
+    {
+      "id": 23,
+      "text": "He applied for a passport last month."
+    },
+    {
+      "id": 24,
+      "text": "She failed her first driving test but passed the second time."
+    },
+    {
+      "id": 25,
+      "text": "They subscribed to a streaming service."
+    },
+    {
+      "id": 26,
+      "text": "He reassured her that everything would be fine."
+    },
+    {
+      "id": 27,
+      "text": "She attempted to bake bread for the first time."
+    },
+    {
+      "id": 28,
+      "text": "They hosted a dinner for their relatives."
+    },
+    {
+      "id": 29,
+      "text": "He introduced himself to the new colleague."
+    },
+    {
+      "id": 30,
+      "text": "She explained the rules to the participants."
+    },
+    {
+      "id": 31,
+      "text": "They apologised for arriving late."
+    },
+    {
+      "id": 32,
+      "text": "He gathered all the documents needed for the appointment."
+    },
+    {
+      "id": 33,
+      "text": "She researched the topic thoroughly before presenting."
+    },
+    {
+      "id": 34,
+      "text": "They postponed the event due to heavy rain."
+    },
+    {
+      "id": 35,
+      "text": "He negotiated a better price at the market."
+    },
+    {
+      "id": 36,
+      "text": "She complained about the slow internet connection."
+    },
+    {
+      "id": 37,
+      "text": "They recommended a newly opened restaurant."
+    },
+    {
+      "id": 38,
+      "text": "He compared different brands before purchasing."
+    },
+    {
+      "id": 39,
+      "text": "She refused the offer politely."
+    },
+    {
+      "id": 40,
+      "text": "They argued over trivial matters."
+    },
+    {
+      "id": 41,
+      "text": "He regretted not studying harder."
+    },
+    {
+      "id": 42,
+      "text": "She suggested taking a short break."
+    },
+    {
+      "id": 43,
+      "text": "They collaborated on a group project."
+    },
+    {
+      "id": 44,
+      "text": "He demonstrated how the device worked."
+    },
+    {
+      "id": 45,
+      "text": "She interrupted the speaker unintentionally."
+    },
+    {
+      "id": 46,
+      "text": "They distributed flyers around the neighbourhood."
+    },
+    {
+      "id": 47,
+      "text": "He summarised the article for the class."
+    },
+    {
+      "id": 48,
+      "text": "She highlighted the important lines."
+    },
+    {
+      "id": 49,
+      "text": "They clarified the misunderstanding."
+    },
+    {
+      "id": 50,
+      "text": "He confirmed the booking via email."
+    },
+    {
+      "id": 51,
+      "text": "She revised the notes before the exam."
+    },
+    {
+      "id": 52,
+      "text": "They brainstormed ideas for the presentation."
+    },
+    {
+      "id": 53,
+      "text": "He investigated the strange noise in the attic."
+    },
+    {
+      "id": 54,
+      "text": "She whispered secrets to her best friend."
+    },
+    {
+      "id": 55,
+      "text": "They congratulated him on winning the award."
+    },
+    {
+      "id": 56,
+      "text": "He examined the painting closely."
+    },
+    {
+      "id": 57,
+      "text": "She reassured her mother about the trip."
+    },
+    {
+      "id": 58,
+      "text": "They disliked the service and left early."
+    },
+    {
+      "id": 59,
+      "text": "He published his first poem in a magazine."
+    },
+    {
+      "id": 60,
+      "text": "She captured photographs of the sunset."
+    },
+    {
+      "id": 61,
+      "text": "They protected the plants from harsh sunlight."
+    },
+    {
+      "id": 62,
+      "text": "He predicted that it would rain soon."
+    },
+    {
+      "id": 63,
+      "text": "She calculated the expenses for the trip."
+    },
+    {
+      "id": 64,
+      "text": "They participated in the marathon."
+    },
+    {
+      "id": 65,
+      "text": "He practised the speech repeatedly."
+    },
+    {
+      "id": 66,
+      "text": "She questioned the accuracy of the report."
+    },
+    {
+      "id": 67,
+      "text": "They monitored the situation carefully."
+    },
+    {
+      "id": 68,
+      "text": "He postponed the assignment submission."
+    },
+    {
+      "id": 69,
+      "text": "She pressed the emergency button just in time."
+    },
+    {
+      "id": 70,
+      "text": "They balanced the ladder against the wall."
+    },
+    {
+      "id": 71,
+      "text": "He regretted selling his bicycle."
+    },
+    {
+      "id": 72,
+      "text": "She experienced mild jet lag."
+    },
+    {
+      "id": 73,
+      "text": "They notified everyone in the group chat."
+    },
+    {
+      "id": 74,
+      "text": "He borrowed a pen from his friend."
+    },
+    {
+      "id": 75,
+      "text": "She returned the borrowed books."
+    },
+    {
+      "id": 76,
+      "text": "They stored their winter clothes in boxes."
+    },
+    {
+      "id": 77,
+      "text": "He rearranged the workspace."
+    },
+    {
+      "id": 78,
+      "text": "She decorated the balcony with fairy lights."
+    },
+    {
+      "id": 79,
+      "text": "They complained about the noisy neighbours."
+    },
+    {
+      "id": 80,
+      "text": "He double-checked the address."
+    },
+    {
+      "id": 81,
+      "text": "She closed the window to stop the cold breeze."
+    },
+    {
+      "id": 82,
+      "text": "They discussed politics during dinner."
+    },
+    {
+      "id": 83,
+      "text": "He struggled to open the jar lid."
+    },
+    {
+      "id": 84,
+      "text": "She cancelled her weekend plans."
+    },
+    {
+      "id": 85,
+      "text": "They appreciated the handmade gifts."
+    },
+    {
+      "id": 86,
+      "text": "He convinced them to stay longer."
+    },
+    {
+      "id": 87,
+      "text": "She explored the museum alone."
+    },
+    {
+      "id": 88,
+      "text": "They divided the tasks evenly."
+    },
+    {
+      "id": 89,
+      "text": "He repaired the broken cabinet."
+    },
+    {
+      "id": 90,
+      "text": "She hesitated before answering."
+    },
+    {
+      "id": 91,
+      "text": "They inspected the damaged car."
+    },
+    {
+      "id": 92,
+      "text": "He greeted the guests warmly."
+    },
+    {
+      "id": 93,
+      "text": "She tasted the soup and added more salt."
+    },
+    {
+      "id": 94,
+      "text": "They debated which film to watch."
+    },
+    {
+      "id": 95,
+      "text": "He polished his old shoes."
+    },
+    {
+      "id": 96,
+      "text": "She whispered the answer softly."
+    },
+    {
+      "id": 97,
+      "text": "They invested in local businesses."
+    },
+    {
+      "id": 98,
+      "text": "He regretted not bringing an umbrella."
+    },
+    {
+      "id": 99,
+      "text": "She felt embarrassed about tripping."
+    },
+    {
+      "id": 100,
+      "text": "They admired the view from the balcony."
+    },
+    {
+      "id": 101,
+      "text": "He apologised for his mistake."
+    },
+    {
+      "id": 102,
+      "text": "She attempted to speak French."
+    },
+    {
+      "id": 103,
+      "text": "They maintained a healthy lifestyle."
+    },
+    {
+      "id": 104,
+      "text": "He identified the problem quickly."
+    },
+    {
+      "id": 105,
+      "text": "She narrated the incident clearly."
+    },
+    {
+      "id": 106,
+      "text": "They obeyed the new rules."
+    },
+    {
+      "id": 107,
+      "text": "He upgraded his laptop for work."
+    },
+    {
+      "id": 108,
+      "text": "She scheduled an appointment."
+    },
+    {
+      "id": 109,
+      "text": "They extended their stay by two days."
+    },
+    {
+      "id": 110,
+      "text": "He avoided eye contact during the interview."
+    },
+    {
+      "id": 111,
+      "text": "She exercised daily to stay fit."
+    },
+    {
+      "id": 112,
+      "text": "They demanded an explanation."
+    },
+    {
+      "id": 113,
+      "text": "He suspected something odd."
+    },
+    {
+      "id": 114,
+      "text": "She completed the assignment earlier than expected."
+    },
+    {
+      "id": 115,
+      "text": "They practised meditation every morning."
+    },
+    {
+      "id": 116,
+      "text": "He installed new software on his computer."
+    },
+    {
+      "id": 117,
+      "text": "She recharged her metro card."
+    },
+    {
+      "id": 118,
+      "text": "They inspected the luggage before leaving."
+    },
+    {
+      "id": 119,
+      "text": "He initiated the meeting."
+    },
+    {
+      "id": 120,
+      "text": "She responded to all the emails."
+    },
+    {
+      "id": 121,
+      "text": "They distributed sweets after the ceremony."
+    },
+    {
+      "id": 122,
+      "text": "He offered to help with the cleaning."
+    },
+    {
+      "id": 123,
+      "text": "She observed the birds from her balcony."
+    },
+    {
+      "id": 124,
+      "text": "They questioned the accuracy of the map."
+    },
+    {
+      "id": 125,
+      "text": "He adjusted the chair height."
+    },
+    {
+      "id": 126,
+      "text": "She rehearsed her lines for the play."
+    },
+    {
+      "id": 127,
+      "text": "They requested a late checkout."
+    },
+    {
+      "id": 128,
+      "text": "He exchanged his old phone for a discount."
+    },
+    {
+      "id": 129,
+      "text": "She achieved remarkable progress."
+    },
+    {
+      "id": 130,
+      "text": "They installed curtains in the living room."
+    },
+    {
+      "id": 131,
+      "text": "He recommended a good dentist."
+    },
+    {
+      "id": 132,
+      "text": "She analysed the survey results."
+    },
+    {
+      "id": 133,
+      "text": "They avoided sensitive topics."
+    },
+    {
+      "id": 134,
+      "text": "He thanked the host for the hospitality."
+    },
+    {
+      "id": 135,
+      "text": "She apologised for the delay."
+    },
+    {
+      "id": 136,
+      "text": "They printed the posters in colour."
+    },
+    {
+      "id": 137,
+      "text": "He confessed that he was nervous."
+    },
+    {
+      "id": 138,
+      "text": "She whispered a secret to her sister."
+    },
+    {
+      "id": 139,
+      "text": "They assembled the furniture themselves."
+    },
+    {
+      "id": 140,
+      "text": "He monitored his screen time."
+    },
+    {
+      "id": 141,
+      "text": "She updated her resume."
+    },
+    {
+      "id": 142,
+      "text": "They ordered dessert after dinner."
+    },
+    {
+      "id": 143,
+      "text": "He translated the paragraph into Hindi."
+    },
+    {
+      "id": 144,
+      "text": "She declined the invitation politely."
+    },
+    {
+      "id": 145,
+      "text": "They refilled the water tank."
+    },
+    {
+      "id": 146,
+      "text": "He narrated an interesting story."
+    },
+    {
+      "id": 147,
+      "text": "She borrowed a dress from her cousin."
+    },
+    {
+      "id": 148,
+      "text": "They repaired the leaking tap."
+    },
+    {
+      "id": 149,
+      "text": "He practised calligraphy in his notebook."
+    },
+    {
+      "id": 150,
+      "text": "She arranged the books by genre."
+    },
+    {
+      "id": 151,
+      "text": "They balanced their monthly budget."
+    },
+    {
+      "id": 152,
+      "text": "He challenged himself to run daily."
+    },
+    {
+      "id": 153,
+      "text": "She calculated the final bill."
+    },
+    {
+      "id": 154,
+      "text": "They distributed medicines at the camp."
+    },
+    {
+      "id": 155,
+      "text": "He expressed his disappointment."
+    },
+    {
+      "id": 156,
+      "text": "She delayed her trip due to weather."
+    },
+    {
+      "id": 157,
+      "text": "They renovated their kitchen."
+    },
+    {
+      "id": 158,
+      "text": "He registered for online classes."
+    },
+    {
+      "id": 159,
+      "text": "She rescheduled the appointment."
+    },
+    {
+      "id": 160,
+      "text": "They reported the missing bag."
+    },
+    {
+      "id": 161,
+      "text": "He installed the antivirus software."
+    },
+    {
+      "id": 162,
+      "text": "She explored the old market."
+    },
+    {
+      "id": 163,
+      "text": "They travelled through several countries."
+    },
+    {
+      "id": 164,
+      "text": "He maintained a diary."
+    },
+    {
+      "id": 165,
+      "text": "She borrowed novels from the library."
+    },
+    {
+      "id": 166,
+      "text": "They cleaned the aquarium."
+    },
+    {
+      "id": 167,
+      "text": "He printed out the instructions."
+    },
+    {
+      "id": 168,
+      "text": "She practised violin every evening."
+    },
+    {
+      "id": 169,
+      "text": "They constructed a treehouse."
+    },
+    {
+      "id": 170,
+      "text": "He updated his profile picture."
+    },
+    {
+      "id": 171,
+      "text": "She completed the paperwork."
+    },
+    {
+      "id": 172,
+      "text": "They celebrated their anniversary."
+    },
+    {
+      "id": 173,
+      "text": "He recharged the batteries."
+    },
+    {
+      "id": 174,
+      "text": "She stitched her traditional outfit."
+    },
+    {
+      "id": 175,
+      "text": "They organised a cultural programme."
+    },
+    {
+      "id": 176,
+      "text": "He controlled his laughter."
+    },
+    {
+      "id": 177,
+      "text": "She regained her confidence."
+    },
+    {
+      "id": 178,
+      "text": "They consulted a financial advisor."
+    },
+    {
+      "id": 179,
+      "text": "He repaired the damaged charger."
+    },
+    {
+      "id": 180,
+      "text": "She calculated how much time was left."
+    },
+    {
+      "id": 181,
+      "text": "They migrated to a new city."
+    },
+    {
+      "id": 182,
+      "text": "He examined the medical reports."
+    },
+    {
+      "id": 183,
+      "text": "She presented her research findings."
+    },
+    {
+      "id": 184,
+      "text": "They harvested rice in the fields."
+    },
+    {
+      "id": 185,
+      "text": "He memorised a long poem."
+    },
+    {
+      "id": 186,
+      "text": "She subscribed to a monthly magazine."
+    },
+    {
+      "id": 187,
+      "text": "They rejected the proposal."
+    },
+    {
+      "id": 188,
+      "text": "He booked tables for the evening."
+    },
+    {
+      "id": 189,
+      "text": "She changed her ringtone."
+    },
+    {
+      "id": 190,
+      "text": "They donated blood at the camp."
+    },
+    {
+      "id": 191,
+      "text": "He replaced the broken plate."
+    },
+    {
+      "id": 192,
+      "text": "She dusted every shelf in the house."
+    },
+    {
+      "id": 193,
+      "text": "They arranged chairs for the audience."
+    },
+    {
+      "id": 194,
+      "text": "He adjusted the camera settings."
+    },
+    {
+      "id": 195,
+      "text": "She translated a song into English."
+    },
+    {
+      "id": 196,
+      "text": "They shared a taxi to save money."
+    },
+    {
+      "id": 197,
+      "text": "He proved his point convincingly."
+    },
+    {
+      "id": 198,
+      "text": "She attended a pottery workshop."
+    },
+    {
+      "id": 199,
+      "text": "They predicted that prices would rise."
+    },
+    {
+      "id": 200,
+      "text": "He apologised for interrupting."
+    },
+    {
+      "id": 201,
+      "text": "She requested an extension for her assignment."
+    },
+    {
+      "id": 202,
+      "text": "They cancelled their reservation at the last minute."
+    },
+    {
+      "id": 203,
+      "text": "He assessed the damage caused by the storm."
+    },
+    {
+      "id": 204,
+      "text": "She registered her complaint with customer support."
+    },
+    {
+      "id": 205,
+      "text": "They examined the details before signing the contract."
+    },
+    {
+      "id": 206,
+      "text": "He delivered the speech confidently."
+    },
+    {
+      "id": 207,
+      "text": "She removed her shoes before entering the house."
+    },
+    {
+      "id": 208,
+      "text": "They resolved the dispute peacefully."
+    },
+    {
+      "id": 209,
+      "text": "He predicted that the event would be successful."
+    },
+    {
+      "id": 210,
+      "text": "She persuaded her parents to let her travel."
+    },
+    {
+      "id": 211,
+      "text": "They rehearsed the performance several times."
+    },
+    {
+      "id": 212,
+      "text": "He exchanged ideas with fellow students."
+    },
+    {
+      "id": 213,
+      "text": "She noticed improvements in her health."
+    },
+    {
+      "id": 214,
+      "text": "They switched off the lights before leaving."
+    },
+    {
+      "id": 215,
+      "text": "He measured the depth of the pool."
+    },
+    {
+      "id": 216,
+      "text": "She relocated to a new office building."
+    },
+    {
+      "id": 217,
+      "text": "They distributed blankets to the homeless."
+    },
+    {
+      "id": 218,
+      "text": "He prepared a summary of the discussion."
+    },
+    {
+      "id": 219,
+      "text": "She modified the presentation according to feedback."
+    },
+    {
+      "id": 220,
+      "text": "They invested their savings wisely."
+    },
+    {
+      "id": 221,
+      "text": "He altered the recipe to suit his taste."
+    },
+    {
+      "id": 222,
+      "text": "She negotiated a fair deal."
+    },
+    {
+      "id": 223,
+      "text": "They appreciated the guidance."
+    },
+    {
+      "id": 224,
+      "text": "He upgraded his internet connection."
+    },
+    {
+      "id": 225,
+      "text": "She analysed the exam pattern."
+    },
+    {
+      "id": 226,
+      "text": "They predicted the final outcome."
+    },
+    {
+      "id": 227,
+      "text": "He rejected the claim due to insufficient evidence."
+    },
+    {
+      "id": 228,
+      "text": "She scanned the QR code for payment."
+    },
+    {
+      "id": 229,
+      "text": "They inspected the new equipment."
+    },
+    {
+      "id": 230,
+      "text": "He printed multiple copies of the document."
+    },
+    {
+      "id": 231,
+      "text": "She downloaded the required software."
+    },
+    {
+      "id": 232,
+      "text": "They collaborated on a research paper."
+    },
+    {
+      "id": 233,
+      "text": "He convinced them to join the club."
+    },
+    {
+      "id": 234,
+      "text": "She defended her opinion calmly."
+    },
+    {
+      "id": 235,
+      "text": "They recorded the minutes of the meeting."
+    },
+    {
+      "id": 236,
+      "text": "He altered the layout of the room."
+    },
+    {
+      "id": 237,
+      "text": "She doubled the recipe for more servings."
+    },
+    {
+      "id": 238,
+      "text": "They filed a petition for improvement."
+    },
+    {
+      "id": 239,
+      "text": "He supervised the construction process."
+    },
+    {
+      "id": 240,
+      "text": "She memorised a list of vocabulary words."
+    },
+    {
+      "id": 241,
+      "text": "They debated about environmental issues."
+    },
+    {
+      "id": 242,
+      "text": "He realised his mistake and apologised."
+    },
+    {
+      "id": 243,
+      "text": "She volunteered to lead the project."
+    },
+    {
+      "id": 244,
+      "text": "They shared their resources."
+    },
+    {
+      "id": 245,
+      "text": "He adopted healthy eating habits."
+    },
+    {
+      "id": 246,
+      "text": "She transferred the money online."
+    },
+    {
+      "id": 247,
+      "text": "They postponed the picnic due to rain."
+    },
+    {
+      "id": 248,
+      "text": "He reheated leftovers in the microwave."
+    },
+    {
+      "id": 249,
+      "text": "She outlined the instructions step by step."
+    },
+    {
+      "id": 250,
+      "text": "They experimented with different flavours."
+    },
+    {
+      "id": 251,
+      "text": "He encouraged his friends to participate."
+    },
+    {
+      "id": 252,
+      "text": "She discovered a new hobby during lockdown."
+    },
+    {
+      "id": 253,
+      "text": "They monitored their expenses using an app."
+    },
+    {
+      "id": 254,
+      "text": "He subscribed to a language course."
+    },
+    {
+      "id": 255,
+      "text": "She captured moments with her camera."
+    },
+    {
+      "id": 256,
+      "text": "They delivered the parcel safely."
+    },
+    {
+      "id": 257,
+      "text": "He formatted the computer."
+    },
+    {
+      "id": 258,
+      "text": "She restored old photographs."
+    },
+    {
+      "id": 259,
+      "text": "They identified patterns in the data."
+    },
+    {
+      "id": 260,
+      "text": "He distributed exam papers to the class."
+    },
+    {
+      "id": 261,
+      "text": "She justified her decision."
+    },
+    {
+      "id": 262,
+      "text": "They promoted their business online."
+    },
+    {
+      "id": 263,
+      "text": "He saved emergency contacts in his phone."
+    },
+    {
+      "id": 264,
+      "text": "She prepared a to-do list for the day."
+    },
+    {
+      "id": 265,
+      "text": "They criticised the plan openly."
+    },
+    {
+      "id": 266,
+      "text": "He balanced his work and studies."
+    },
+    {
+      "id": 267,
+      "text": "She complained about the noisy office."
+    },
+    {
+      "id": 268,
+      "text": "They innovated a cheaper solution."
+    },
+    {
+      "id": 269,
+      "text": "He stepped out to answer a phone call."
+    },
+    {
+      "id": 270,
+      "text": "She trained for the marathon."
+    },
+    {
+      "id": 271,
+      "text": "They recovered from the financial setback."
+    },
+    {
+      "id": 272,
+      "text": "He specialised in artificial intelligence."
+    },
+    {
+      "id": 273,
+      "text": "She presented her artwork at the exhibition."
+    },
+    {
+      "id": 274,
+      "text": "They motivated others through speeches."
+    },
+    {
+      "id": 275,
+      "text": "He outlined the strategy clearly."
+    },
+    {
+      "id": 276,
+      "text": "She compared two different brands."
+    },
+    {
+      "id": 277,
+      "text": "They coordinated the event smoothly."
+    },
+    {
+      "id": 278,
+      "text": "He borrowed tools from a neighbour."
+    },
+    {
+      "id": 279,
+      "text": "She drafted a formal letter."
+    },
+    {
+      "id": 280,
+      "text": "They replaced outdated equipment."
+    },
+    {
+      "id": 281,
+      "text": "He examined the patient carefully."
+    },
+    {
+      "id": 282,
+      "text": "She hesitated before signing."
+    },
+    {
+      "id": 283,
+      "text": "They measured the length in centimetres."
+    },
+    {
+      "id": 284,
+      "text": "He installed curtains to block sunlight."
+    },
+    {
+      "id": 285,
+      "text": "She consulted a nutritionist for advice."
+    },
+    {
+      "id": 286,
+      "text": "They distributed chocolates during the festival."
+    },
+    {
+      "id": 287,
+      "text": "He predicted that prices would fall."
+    },
+    {
+      "id": 288,
+      "text": "She researched travel destinations."
+    },
+    {
+      "id": 289,
+      "text": "They solved the puzzle together."
+    },
+    {
+      "id": 290,
+      "text": "He donated his books to the library."
+    },
+    {
+      "id": 291,
+      "text": "She polished her communication skills."
+    },
+    {
+      "id": 292,
+      "text": "They detected a minor fault in the system."
+    },
+    {
+      "id": 293,
+      "text": "He practised swimming every morning."
+    },
+    {
+      "id": 294,
+      "text": "She minimised distractions by turning off notifications."
+    },
+    {
+      "id": 295,
+      "text": "They booked accommodation in advance."
+    },
+    {
+      "id": 296,
+      "text": "He listened attentively during the lecture."
+    },
+    {
+      "id": 297,
+      "text": "She upgraded her workspace."
+    },
+    {
+      "id": 298,
+      "text": "They transported goods in lorries."
+    },
+    {
+      "id": 299,
+      "text": "He verified the transaction details."
+    },
+    {
+      "id": 300,
+      "text": "She printed colourful brochures."
+    },
+    {
+      "id": 301,
+      "text": "They confessed that they had forgotten."
+    },
+    {
+      "id": 302,
+      "text": "He admired the architectural design."
+    },
+    {
+      "id": 303,
+      "text": "She endured a long journey."
+    },
+    {
+      "id": 304,
+      "text": "They washed the muddy equipment."
+    },
+    {
+      "id": 305,
+      "text": "He calculated the percentage increase."
+    },
+    {
+      "id": 306,
+      "text": "She explained her point with examples."
+    },
+    {
+      "id": 307,
+      "text": "They travelled through narrow streets."
+    },
+    {
+      "id": 308,
+      "text": "He observed birds with binoculars."
+    },
+    {
+      "id": 309,
+      "text": "She invited relatives for lunch."
+    },
+    {
+      "id": 310,
+      "text": "They shopped for groceries at the market."
+    },
+    {
+      "id": 311,
+      "text": "He recharged his travel card."
+    },
+    {
+      "id": 312,
+      "text": "She refilled the water bottles."
+    },
+    {
+      "id": 313,
+      "text": "They cleaned the attic properly."
+    },
+    {
+      "id": 314,
+      "text": "He whispered something to his friend."
+    },
+    {
+      "id": 315,
+      "text": "She arranged the chairs in a circle."
+    },
+    {
+      "id": 316,
+      "text": "They monitored the weather forecast."
+    },
+    {
+      "id": 317,
+      "text": "He posted the parcel through the counter."
+    },
+    {
+      "id": 318,
+      "text": "She analysed the survey reports."
+    },
+    {
+      "id": 319,
+      "text": "They documented every experiment."
+    },
+    {
+      "id": 320,
+      "text": "He used disinfectant to clean surfaces."
+    },
+    {
+      "id": 321,
+      "text": "She attempted to paint a portrait."
+    },
+    {
+      "id": 322,
+      "text": "They transported the luggage upstairs."
+    },
+    {
+      "id": 323,
+      "text": "He offered refreshments to visitors."
+    },
+    {
+      "id": 324,
+      "text": "She repaid her loan on time."
+    },
+    {
+      "id": 325,
+      "text": "They provided blankets for campers."
+    },
+    {
+      "id": 326,
+      "text": "He checked his heart rate after running."
+    },
+    {
+      "id": 327,
+      "text": "She borrowed stationery from her friend."
+    },
+    {
+      "id": 328,
+      "text": "They rehearsed lines for the play."
+    },
+    {
+      "id": 329,
+      "text": "He completed several courses online."
+    },
+    {
+      "id": 330,
+      "text": "She resignated from her position last month."
+    },
+    {
+      "id": 331,
+      "text": "They attended a debate competition."
+    },
+    {
+      "id": 332,
+      "text": "He expressed gratitude for the support."
+    },
+    {
+      "id": 333,
+      "text": "She notified the manager about the delay."
+    },
+    {
+      "id": 334,
+      "text": "They abolished old rules."
+    },
+    {
+      "id": 335,
+      "text": "He navigated through heavy traffic."
+    },
+    {
+      "id": 336,
+      "text": "She supervised the entire session."
+    },
+    {
+      "id": 337,
+      "text": "They classified books according to genre."
+    },
+    {
+      "id": 338,
+      "text": "He revised the material before the exam."
+    },
+    {
+      "id": 339,
+      "text": "She motivated her peers."
+    },
+    {
+      "id": 340,
+      "text": "They planned their budget carefully."
+    },
+    {
+      "id": 341,
+      "text": "He resembled his grandfather."
+    },
+    {
+      "id": 342,
+      "text": "She highlighted the instructions."
+    },
+    {
+      "id": 343,
+      "text": "They discovered a hidden pathway."
+    },
+    {
+      "id": 344,
+      "text": "He debated on national television."
+    },
+    {
+      "id": 345,
+      "text": "She consulted legal experts."
+    },
+    {
+      "id": 346,
+      "text": "They traded goods through online platforms."
+    },
+    {
+      "id": 347,
+      "text": "He summarised the chapter briefly."
+    },
+    {
+      "id": 348,
+      "text": "She proposed a new idea."
+    },
+    {
+      "id": 349,
+      "text": "They collected valuable feedback."
+    },
+    {
+      "id": 350,
+      "text": "He explained the rules politely."
+    },
+    {
+      "id": 351,
+      "text": "She completed her paperwork early."
+    },
+    {
+      "id": 352,
+      "text": "They appreciated the cultural programme."
+    },
+    {
+      "id": 353,
+      "text": "He attended his cousin\u2019s wedding."
+    },
+    {
+      "id": 354,
+      "text": "She emigrated to Canada for studies."
+    },
+    {
+      "id": 355,
+      "text": "They donated blankets during winter."
+    },
+    {
+      "id": 356,
+      "text": "He evaluated the final results."
+    },
+    {
+      "id": 357,
+      "text": "She transferred files to a hard drive."
+    },
+    {
+      "id": 358,
+      "text": "They initiated meaningful discussions."
+    },
+    {
+      "id": 359,
+      "text": "He measured the ingredients accurately."
+    },
+    {
+      "id": 360,
+      "text": "She revised her notes twice."
+    },
+    {
+      "id": 361,
+      "text": "They removed the rust from the gate."
+    },
+    {
+      "id": 362,
+      "text": "He recharged his metro card."
+    },
+    {
+      "id": 363,
+      "text": "She programmed a small robot."
+    },
+    {
+      "id": 364,
+      "text": "They purchased new office furniture."
+    },
+    {
+      "id": 365,
+      "text": "He recorded his guitar music."
+    },
+    {
+      "id": 366,
+      "text": "She practised breathing exercises."
+    },
+    {
+      "id": 367,
+      "text": "They hiked up the steep trail."
+    },
+    {
+      "id": 368,
+      "text": "He installed a better graphics card."
+    },
+    {
+      "id": 369,
+      "text": "She packed snacks for the journey."
+    },
+    {
+      "id": 370,
+      "text": "They published their research findings."
+    },
+    {
+      "id": 371,
+      "text": "He modified the original design."
+    },
+    {
+      "id": 372,
+      "text": "She completed her driving training."
+    },
+    {
+      "id": 373,
+      "text": "They discussed career goals."
+    },
+    {
+      "id": 374,
+      "text": "He struggled to remain awake."
+    },
+    {
+      "id": 375,
+      "text": "She reminded him about the meeting."
+    },
+    {
+      "id": 376,
+      "text": "They painted the nursery in pastel colours."
+    },
+    {
+      "id": 377,
+      "text": "He communicated the news clearly."
+    },
+    {
+      "id": 378,
+      "text": "She tracked her fitness progress."
+    },
+    {
+      "id": 379,
+      "text": "They conducted a survey."
+    },
+    {
+      "id": 380,
+      "text": "He imported goods through a distributor."
+    },
+    {
+      "id": 381,
+      "text": "She exported handmade crafts abroad."
+    },
+    {
+      "id": 382,
+      "text": "They interacted with foreign students."
+    },
+    {
+      "id": 383,
+      "text": "He recommended a better approach."
+    },
+    {
+      "id": 384,
+      "text": "She signed up for self-defence classes."
+    },
+    {
+      "id": 385,
+      "text": "They registered for an online seminar."
+    },
+    {
+      "id": 386,
+      "text": "He developed a useful mobile app."
+    },
+    {
+      "id": 387,
+      "text": "She analysed customer behaviour."
+    },
+    {
+      "id": 388,
+      "text": "They captured high-resolution photographs."
+    },
+    {
+      "id": 389,
+      "text": "He experimented with coffee flavours."
+    },
+    {
+      "id": 390,
+      "text": "She obtained a certificate for the course."
+    },
+    {
+      "id": 391,
+      "text": "They expressed concern about pollution."
+    },
+    {
+      "id": 392,
+      "text": "He demanded a refund for the damaged item."
+    },
+    {
+      "id": 393,
+      "text": "She formulated a business strategy."
+    },
+    {
+      "id": 394,
+      "text": "They supervised the entire festival."
+    },
+    {
+      "id": 395,
+      "text": "He memorised a complicated formula."
+    },
+    {
+      "id": 396,
+      "text": "She demonstrated the correct method."
+    },
+    {
+      "id": 397,
+      "text": "They expanded their shop to a bigger location."
+    },
+    {
+      "id": 398,
+      "text": "He clarified his doubts with the tutor."
+    },
+    {
+      "id": 399,
+      "text": "She attended a first aid workshop."
+    },
+    {
+      "id": 400,
+      "text": "They regretted not taking enough pictures."
+    }
+  ],
+    "advanced":[
+    {
+      "id": 1,
+      "text": "The organisation implemented a comprehensive strategy to enhance operational efficiency."
+    },
+    {
+      "id": 2,
+      "text": "The committee evaluated policy alternatives to identify the most sustainable framework."
+    },
+    {
+      "id": 3,
+      "text": "Researchers analysed longitudinal data to observe emerging socioeconomic patterns."
+    },
+    {
+      "id": 4,
+      "text": "The council facilitated negotiations between multiple stakeholders to resolve the dispute."
+    },
+    {
+      "id": 5,
+      "text": "The firm expanded its distribution channels to strengthen its global presence."
+    },
+    {
+      "id": 6,
+      "text": "Experts forecasted a significant rise in renewable energy utilisation across the continent."
+    },
+    {
+      "id": 7,
+      "text": "The panel reviewed existing legislation to determine necessary amendments."
+    },
+    {
+      "id": 8,
+      "text": "The institution introduced modern methodologies to improve instructional quality."
+    },
+    {
+      "id": 9,
+      "text": "The analysts predicted volatility in the market due to geopolitical instability."
+    },
+    {
+      "id": 10,
+      "text": "The foundation sponsored academic exchanges to promote cross-cultural understanding."
+    },
+    {
+      "id": 11,
+      "text": "The department monitored compliance with newly established safety guidelines."
+    },
+    {
+      "id": 12,
+      "text": "The consortium secured funding to support climate adaptation projects."
+    },
+    {
+      "id": 13,
+      "text": "The faculty encouraged interdisciplinary collaboration to stimulate innovation."
+    },
+    {
+      "id": 14,
+      "text": "The researchers synthesised multiple theories to construct a unified conceptual model."
+    },
+    {
+      "id": 15,
+      "text": "The committee advocated stricter regulations to safeguard public welfare."
+    },
+    {
+      "id": 16,
+      "text": "The ministry revised its strategic priorities to address regional inequality."
+    },
+    {
+      "id": 17,
+      "text": "Auditors examined financial statements to ensure transparent reporting practices."
+    },
+    {
+      "id": 18,
+      "text": "The council established performance benchmarks for municipal services."
+    },
+    {
+      "id": 19,
+      "text": "The institution restructured its funding mechanism to support underrepresented groups."
+    },
+    {
+      "id": 20,
+      "text": "The analysts examined demographic trends to predict long-term workforce needs."
+    },
+    {
+      "id": 21,
+      "text": "The university implemented digital learning platforms to increase accessibility."
+    },
+    {
+      "id": 22,
+      "text": "Policy makers deliberated the economic implications of carbon taxation."
+    },
+    {
+      "id": 23,
+      "text": "The organisation formalised ethical guidelines to reinforce professional accountability."
+    },
+    {
+      "id": 24,
+      "text": "The research team collected empirical evidence to validate theoretical assumptions."
+    },
+    {
+      "id": 25,
+      "text": "The ministry collaborated with non-profit organisations to expand social services."
+    },
+    {
+      "id": 26,
+      "text": "The analysts assessed investment risks associated with emerging markets."
+    },
+    {
+      "id": 27,
+      "text": "The advisory board recommended instituting comprehensive quality audits."
+    },
+    {
+      "id": 28,
+      "text": "The report highlighted disparities in educational outcomes across districts."
+    },
+    {
+      "id": 29,
+      "text": "The firm adopted automation technologies to optimise operational throughput."
+    },
+    {
+      "id": 30,
+      "text": "The governing council authorised a feasibility study to evaluate project viability."
+    },
+    {
+      "id": 31,
+      "text": "The committee investigated allegations of procedural misconduct within the agency."
+    },
+    {
+      "id": 32,
+      "text": "The institute disseminated research findings through peer-reviewed publications."
+    },
+    {
+      "id": 33,
+      "text": "The tribunal examined testimonial evidence to reach an impartial judgment."
+    },
+    {
+      "id": 34,
+      "text": "The consultants developed contingency plans to mitigate financial losses."
+    },
+    {
+      "id": 35,
+      "text": "The faculty introduced specialised modules to enhance academic proficiency."
+    },
+    {
+      "id": 36,
+      "text": "Experts assessed environmental indicators to determine ecological resilience."
+    },
+    {
+      "id": 37,
+      "text": "The delegation negotiated trade agreements to foster bilateral cooperation."
+    },
+    {
+      "id": 38,
+      "text": "The council reviewed the infrastructural blueprint to ensure regulatory compliance."
+    },
+    {
+      "id": 39,
+      "text": "The researchers utilised statistical software to analyse vast data sets."
+    },
+    {
+      "id": 40,
+      "text": "The enterprise integrated cloud platforms to streamline its operational workflow."
+    },
+    {
+      "id": 41,
+      "text": "The board examined proposed reforms to modernise administrative procedures."
+    },
+    {
+      "id": 42,
+      "text": "The research team compared regional case studies to identify structural disparities."
+    },
+    {
+      "id": 43,
+      "text": "The ministry issued revised protocols to regulate industrial emissions."
+    },
+    {
+      "id": 44,
+      "text": "The corporation commissioned external auditors to evaluate governance practices."
+    },
+    {
+      "id": 45,
+      "text": "Policy analysts modelled economic scenarios to forecast fiscal outcomes."
+    },
+    {
+      "id": 46,
+      "text": "The institute encouraged critical inquiry through competitive academic fellowships."
+    },
+    {
+      "id": 47,
+      "text": "The advisory committee drafted recommendations to reform procurement procedures."
+    },
+    {
+      "id": 48,
+      "text": "The firm deployed training programmes to strengthen managerial competencies."
+    },
+    {
+      "id": 49,
+      "text": "The council implemented conservation schemes to protect natural resources."
+    },
+    {
+      "id": 50,
+      "text": "The department coordinated disaster response efforts across multiple regions."
+    },
+    {
+      "id": 51,
+      "text": "The analysts evaluated long-term trends in consumer spending behaviour."
+    },
+    {
+      "id": 52,
+      "text": "Scholars debated the ethical dimensions of artificial intelligence adoption."
+    },
+    {
+      "id": 53,
+      "text": "The authorities imposed penalties to deter non-compliance with regulatory standards."
+    },
+    {
+      "id": 54,
+      "text": "The researchers developed frameworks to assess organisational resilience."
+    },
+    {
+      "id": 55,
+      "text": "The ministry introduced reforms to enhance healthcare accessibility."
+    },
+    {
+      "id": 56,
+      "text": "Audit committees reviewed operational inefficiencies to identify corrective measures."
+    },
+    {
+      "id": 57,
+      "text": "The chapter examined sociocultural influences on political participation."
+    },
+    {
+      "id": 58,
+      "text": "The institution partnered with industry leaders to foster innovation ecosystems."
+    },
+    {
+      "id": 59,
+      "text": "The council evaluated infrastructure demands to support urban expansion."
+    },
+    {
+      "id": 60,
+      "text": "The foundation awarded grants to promote scientific literacy among youth."
+    },
+    {
+      "id": 61,
+      "text": "Scholars investigated gender disparities across professional sectors."
+    },
+    {
+      "id": 62,
+      "text": "The governing body approved performance indicators for public institutions."
+    },
+    {
+      "id": 63,
+      "text": "The ministry facilitated vocational training to address unemployment challenges."
+    },
+    {
+      "id": 64,
+      "text": "The analysts assessed monetary policies to stabilise inflation rates."
+    },
+    {
+      "id": 65,
+      "text": "The council deliberated cultural policies to strengthen heritage preservation."
+    },
+    {
+      "id": 66,
+      "text": "The commission conducted hearings to investigate systemic irregularities."
+    },
+    {
+      "id": 67,
+      "text": "The agency implemented cybersecurity protocols to protect digital assets."
+    },
+    {
+      "id": 68,
+      "text": "Economic advisors warned of potential recession due to market contraction."
+    },
+    {
+      "id": 69,
+      "text": "The consortium formed strategic alliances to expand industrial capacity."
+    },
+    {
+      "id": 70,
+      "text": "The department issued procurement guidelines to ensure ethical sourcing."
+    },
+    {
+      "id": 71,
+      "text": "The researchers utilised ethnographic methods to document cultural practices."
+    },
+    {
+      "id": 72,
+      "text": "The state implemented inclusive policies to broaden democratic participation."
+    },
+    {
+      "id": 73,
+      "text": "The government launched awareness campaigns to encourage public engagement."
+    },
+    {
+      "id": 74,
+      "text": "The inspection team identified safety violations across construction sites."
+    },
+    {
+      "id": 75,
+      "text": "The committee archived records to maintain administrative continuity."
+    },
+    {
+      "id": 76,
+      "text": "The analysts tracked global supply chains to evaluate logistical disruptions."
+    },
+    {
+      "id": 77,
+      "text": "The faculty revised accreditation standards to uphold academic credibility."
+    },
+    {
+      "id": 78,
+      "text": "The panel introduced ethical guidelines for emerging biomedical research."
+    },
+    {
+      "id": 79,
+      "text": "The ministry established monitoring units to track policy implementation."
+    },
+    {
+      "id": 80,
+      "text": "The enterprise launched pilot programmes to test market viability."
+    },
+    {
+      "id": 81,
+      "text": "The authorities enhanced border controls to address security threats."
+    },
+    {
+      "id": 82,
+      "text": "The investment board reviewed foreign proposals to diversify capital inflows."
+    },
+    {
+      "id": 83,
+      "text": "The task force analysed transportation data to optimise transit networks."
+    },
+    {
+      "id": 84,
+      "text": "The council deployed urban renewal schemes to revitalise neglected districts."
+    },
+    {
+      "id": 85,
+      "text": "The ministry drafted regulatory frameworks to support e-commerce expansion."
+    },
+    {
+      "id": 86,
+      "text": "The department assessed soil degradation levels to inform agricultural policy."
+    },
+    {
+      "id": 87,
+      "text": "The advisory board examined intellectual property disputes between firms."
+    },
+    {
+      "id": 88,
+      "text": "Researchers quantified the economic impact of environmental degradation."
+    },
+    {
+      "id": 89,
+      "text": "The commission implemented transparency measures to deter corruption."
+    },
+    {
+      "id": 90,
+      "text": "The university launched doctoral fellowships to encourage advanced research."
+    },
+    {
+      "id": 91,
+      "text": "The ministry facilitated diplomatic dialogues to strengthen regional alliances."
+    },
+    {
+      "id": 92,
+      "text": "Analysts modelled fiscal scenarios to determine taxation outcomes."
+    },
+    {
+      "id": 93,
+      "text": "The environmental agency designated protected areas to conserve biodiversity."
+    },
+    {
+      "id": 94,
+      "text": "The institution incorporated peer assessment to enhance learning outcomes."
+    },
+    {
+      "id": 95,
+      "text": "The council approved infrastructure upgrades to modernise transportation systems."
+    },
+    {
+      "id": 96,
+      "text": "Experts documented cultural narratives to preserve intangible heritage."
+    },
+    {
+      "id": 97,
+      "text": "The firm adopted risk management practices to mitigate financial exposure."
+    },
+    {
+      "id": 98,
+      "text": "The tribunal mediated commercial disputes to expedite legal resolution."
+    },
+    {
+      "id": 99,
+      "text": "The researchers correlated meteorological patterns with agricultural output."
+    },
+    {
+      "id": 100,
+      "text": "The corporation expanded its talent development initiatives to improve productivity."
+    },
+    {
+      "id": 101,
+      "text": "The agency conducted administrative audits to identify operational bottlenecks."
+    },
+    {
+      "id": 102,
+      "text": "The analysts evaluated pension reforms to determine long-term fiscal sustainability."
+    },
+    {
+      "id": 103,
+      "text": "The ministry launched innovation parks to stimulate technological advancement."
+    },
+    {
+      "id": 104,
+      "text": "The institution developed inclusive frameworks to empower marginalised communities."
+    },
+    {
+      "id": 105,
+      "text": "Researchers assessed coastal erosion to forecast environmental vulnerability."
+    },
+    {
+      "id": 106,
+      "text": "The panel reviewed labour regulations to safeguard occupational welfare."
+    },
+    {
+      "id": 107,
+      "text": "The council drafted municipal development plans to accommodate population growth."
+    },
+    {
+      "id": 108,
+      "text": "The enterprise integrated robotics to increase manufacturing precision."
+    },
+    {
+      "id": 109,
+      "text": "The parliamentary committee evaluated public expenditure to ensure accountability."
+    },
+    {
+      "id": 110,
+      "text": "Economists debated the effectiveness of universal basic income schemes."
+    },
+    {
+      "id": 111,
+      "text": "The ministry planned welfare programmes to reduce socioeconomic inequality."
+    },
+    {
+      "id": 112,
+      "text": "The board commissioned financial reviews to optimise resource allocation."
+    },
+    {
+      "id": 113,
+      "text": "Researchers explored the cognitive benefits of multilingual education."
+    },
+    {
+      "id": 114,
+      "text": "The authorities regulated pharmaceutical pricing to ensure affordability."
+    },
+    {
+      "id": 115,
+      "text": "The tribunal adjudicated contractual disputes between multinational firms."
+    },
+    {
+      "id": 116,
+      "text": "The enterprise implemented performance metrics to evaluate employee outcomes."
+    },
+    {
+      "id": 117,
+      "text": "The ministry drafted cybersecurity standards to protect critical infrastructure."
+    },
+    {
+      "id": 118,
+      "text": "The council approved protective zoning laws to prevent urban congestion."
+    },
+    {
+      "id": 119,
+      "text": "Researchers analysed voter behaviour to understand political engagement."
+    },
+    {
+      "id": 120,
+      "text": "The authorities deployed surveillance systems to enhance public safety."
+    },
+    {
+      "id": 121,
+      "text": "The board authorised the development of corporate sustainability reports."
+    },
+    {
+      "id": 122,
+      "text": "The research team evaluated dietary patterns to measure nutritional adequacy."
+    },
+    {
+      "id": 123,
+      "text": "The environmental agency assessed pollution metrics across industrial zones."
+    },
+    {
+      "id": 124,
+      "text": "The institution revised recruitment policies to promote workplace diversity."
+    },
+    {
+      "id": 125,
+      "text": "The ministry invested in transportation corridors to stimulate economic growth."
+    },
+    {
+      "id": 126,
+      "text": "The analysts compared healthcare indicators among neighbouring regions."
+    },
+    {
+      "id": 127,
+      "text": "The committee established ethical norms for academic research."
+    },
+    {
+      "id": 128,
+      "text": "The firm benchmarked operational performance against international standards."
+    },
+    {
+      "id": 129,
+      "text": "The government introduced social schemes to combat urban poverty."
+    },
+    {
+      "id": 130,
+      "text": "The commission reviewed data governance frameworks to ensure compliance."
+    },
+    {
+      "id": 131,
+      "text": "The ministry developed national strategies to address climate adaptation."
+    },
+    {
+      "id": 132,
+      "text": "Scholars assessed media influence on public perception during elections."
+    },
+    {
+      "id": 133,
+      "text": "The enterprise strengthened supplier networks to reduce logistical delays."
+    },
+    {
+      "id": 134,
+      "text": "The panel evaluated digital learning tools to support remote education."
+    },
+    {
+      "id": 135,
+      "text": "The economists monitored inflation trends to recommend corrective measures."
+    },
+    {
+      "id": 136,
+      "text": "The authorities implemented sanitation protocols to mitigate disease transmission."
+    },
+    {
+      "id": 137,
+      "text": "The laboratory validated testing methodologies to ensure scientific accuracy."
+    },
+    {
+      "id": 138,
+      "text": "The parliament enacted reforms to enhance judicial transparency."
+    },
+    {
+      "id": 139,
+      "text": "The department instituted review mechanisms to enhance institutional accountability."
+    },
+    {
+      "id": 140,
+      "text": "Researchers documented indigenous medicinal knowledge for future study."
+    },
+    {
+      "id": 141,
+      "text": "The council authorised redevelopment plans to modernise ageing infrastructure."
+    },
+    {
+      "id": 142,
+      "text": "The financial board assessed currency stability to inform trade policy."
+    },
+    {
+      "id": 143,
+      "text": "The institution implemented mentorship programmes to nurture emerging talent."
+    },
+    {
+      "id": 144,
+      "text": "The governing body issued comprehensive audit recommendations."
+    },
+    {
+      "id": 145,
+      "text": "The analysts projected demographic shifts to anticipate labour shortages."
+    },
+    {
+      "id": 146,
+      "text": "The ministry supported community farming to enhance food security."
+    },
+    {
+      "id": 147,
+      "text": "The researchers quantified carbon emissions to inform climate negotiations."
+    },
+    {
+      "id": 148,
+      "text": "The council allocated funds to expand public healthcare facilities."
+    },
+    {
+      "id": 149,
+      "text": "The enterprise adopted remote collaboration tools to sustain productivity."
+    },
+    {
+      "id": 150,
+      "text": "The panel examined public grievances to recommend administrative reforms."
+    },
+    {
+      "id": 151,
+      "text": "The tribunal reviewed legal appeals to ensure judicial fairness."
+    },
+    {
+      "id": 152,
+      "text": "The committee endorsed educational reforms to improve learning outcomes."
+    },
+    {
+      "id": 153,
+      "text": "The ministry assessed economic vulnerability caused by global supply disruptions."
+    },
+    {
+      "id": 154,
+      "text": "The authorities strengthened labour protections for migrant workers."
+    },
+    {
+      "id": 155,
+      "text": "Researchers evaluated climate resilience in coastal settlements."
+    },
+    {
+      "id": 156,
+      "text": "The department developed employment initiatives to reduce youth unemployment."
+    },
+    {
+      "id": 157,
+      "text": "The institution assessed competency frameworks to standardise professional skills."
+    },
+    {
+      "id": 158,
+      "text": "The ministry commissioned demographic surveys to forecast population growth."
+    },
+    {
+      "id": 159,
+      "text": "The panel drafted guidelines to regulate emerging financial technologies."
+    },
+    {
+      "id": 160,
+      "text": "The enterprise improved supply chain coordination to reduce material wastage."
+    },
+    {
+      "id": 161,
+      "text": "The university expanded research fellowships to attract international scholars."
+    },
+    {
+      "id": 162,
+      "text": "Economists debated monetary reforms in light of rising national debt."
+    },
+    {
+      "id": 163,
+      "text": "The commission addressed infrastructural disparities between rural and urban regions."
+    },
+    {
+      "id": 164,
+      "text": "The analysts evaluated labour market data to understand workforce transitions."
+    },
+    {
+      "id": 165,
+      "text": "The ministry established scholarship schemes to promote academic mobility."
+    },
+    {
+      "id": 166,
+      "text": "The panel analysed public spending priorities to redistribute resources effectively."
+    },
+    {
+      "id": 167,
+      "text": "The environmental agency introduced waste management regulations to reduce landfill pressure."
+    },
+    {
+      "id": 168,
+      "text": "Researchers projected increased water stress due to climatic variability."
+    },
+    {
+      "id": 169,
+      "text": "The council facilitated round-table dialogues to resolve policy disputes."
+    },
+    {
+      "id": 170,
+      "text": "The department authorised scientific expeditions to collect environmental data."
+    },
+    {
+      "id": 171,
+      "text": "The firm incorporated training simulations to enhance operational readiness."
+    },
+    {
+      "id": 172,
+      "text": "The tribunal ratified new arbitration procedures for commercial conflict resolution."
+    },
+    {
+      "id": 173,
+      "text": "The panel assessed regulatory loopholes to prevent financial malpractice."
+    },
+    {
+      "id": 174,
+      "text": "The university implemented open access policies to democratise research dissemination."
+    },
+    {
+      "id": 175,
+      "text": "The ministry launched digital identity platforms to streamline public services."
+    },
+    {
+      "id": 176,
+      "text": "Experts assessed the resilience of power grids to extreme weather events."
+    },
+    {
+      "id": 177,
+      "text": "The commission expanded legal aid programmes to support disadvantaged citizens."
+    },
+    {
+      "id": 178,
+      "text": "The researchers utilised machine learning algorithms to detect data anomalies."
+    },
+    {
+      "id": 179,
+      "text": "The council issued policy briefs to inform legislative deliberations."
+    },
+    {
+      "id": 180,
+      "text": "The enterprise diversified its revenue streams to minimise financial risk."
+    },
+    {
+      "id": 181,
+      "text": "The ministry undertook diplomatic missions to strengthen regional cooperation."
+    },
+    {
+      "id": 182,
+      "text": "The board published annual reports to enhance organisational transparency."
+    },
+    {
+      "id": 183,
+      "text": "The agency standardised procedures to reduce administrative inconsistency."
+    },
+    {
+      "id": 184,
+      "text": "The commission monitored macroeconomic indicators to evaluate policy impact."
+    },
+    {
+      "id": 185,
+      "text": "Scholars examined cultural heritage to trace historical identity formation."
+    },
+    {
+      "id": 186,
+      "text": "The ministry developed public health campaigns to promote preventative care."
+    },
+    {
+      "id": 187,
+      "text": "The enterprise outsourced specialised functions to improve cost efficiency."
+    },
+    {
+      "id": 188,
+      "text": "The department revised immigration procedures to manage increasing applications."
+    },
+    {
+      "id": 189,
+      "text": "The research team published comprehensive datasets to facilitate academic replication."
+    },
+    {
+      "id": 190,
+      "text": "The authorities introduced emissions standards to curb industrial pollution."
+    },
+    {
+      "id": 191,
+      "text": "The agency collaborated with private firms to develop innovation clusters."
+    },
+    {
+      "id": 192,
+      "text": "The analysts measured consumption trends to estimate household affordability."
+    },
+    {
+      "id": 193,
+      "text": "The panel reviewed pandemic response strategies to identify systemic shortcomings."
+    },
+    {
+      "id": 194,
+      "text": "The ministry subsidised clean energy programmes to accelerate green transition."
+    },
+    {
+      "id": 195,
+      "text": "The organisation implemented equal opportunity frameworks to deter workplace discrimination."
+    },
+    {
+      "id": 196,
+      "text": "The commission authorised reforms to decentralise administrative authority."
+    },
+    {
+      "id": 197,
+      "text": "Researchers examined information systems to improve digital governance."
+    },
+    {
+      "id": 198,
+      "text": "The council expanded teacher training initiatives to raise pedagogical standards."
+    },
+    {
+      "id": 199,
+      "text": "The tribunal resolved cross-border commercial disputes through arbitration."
+    },
+    {
+    "id": 200,
+    "text": "The university advanced its research agenda through international collaboration."
+  },
+    {
+      "id": 201,
+      "text": "The corporation enhanced data security protocols to safeguard confidential information."
+    },
+    {
+      "id": 202,
+      "text": "The ministry implemented fiscal reforms to stabilise the national economy."
+    },
+    {
+      "id": 203,
+      "text": "The council developed programmes to strengthen community resilience."
+    },
+    {
+      "id": 204,
+      "text": "The advisory panel reviewed institutional governance standards."
+    },
+    {
+      "id": 205,
+      "text": "The agency established training criteria to professionalise the workforce."
+    },
+    {
+      "id": 206,
+      "text": "Researchers documented behavioural patterns to analyse consumer decision-making."
+    },
+    {
+      "id": 207,
+      "text": "The committee assessed national security threats linked to emerging technologies."
+    },
+    {
+      "id": 208,
+      "text": "The department endorsed new legal frameworks for digital transactions."
+    },
+    {
+      "id": 209,
+      "text": "Experts evaluated long-term climate projections to influence policy formation."
+    },
+    {
+      "id": 210,
+      "text": "The university promoted academic mobility through international exchange initiatives."
+    },
+    {
+      "id": 211,
+      "text": "Auditors inspected public accounts to verify compliance with expenditure constraints."
+    },
+    {
+      "id": 212,
+      "text": "The commission expanded its jurisdiction to regulate multiple industry sectors."
+    },
+    {
+      "id": 213,
+      "text": "The authorities reinforced emergency response infrastructure ahead of monsoon season."
+    },
+    {
+      "id": 214,
+      "text": "The firm adopted multimodal logistics to reduce shipment delays."
+    },
+    {
+      "id": 215,
+      "text": "The ministry negotiated water-sharing agreements to prevent regional conflicts."
+    },
+    {
+      "id": 216,
+      "text": "The panel identified structural inefficiencies within the welfare distribution system."
+    },
+    {
+      "id": 217,
+      "text": "Researchers synthesised large datasets to forecast agricultural productivity."
+    },
+    {
+      "id": 218,
+      "text": "The authorities issued health advisories to minimise public exposure to pollutants."
+    },
+    {
+      "id": 219,
+      "text": "The finance board investigated systemic lending disparities among districts."
+    },
+    {
+      "id": 220,
+      "text": "The ministry allocated capital for renewable infrastructure development."
+    },
+    {
+      "id": 221,
+      "text": "The consortium established research hubs to accelerate biomedical innovation."
+    },
+    {
+      "id": 222,
+      "text": "The council authorised urban planning initiatives to enhance transport connectivity."
+    },
+    {
+      "id": 223,
+      "text": "The panel reviewed demographic projections to adjust pension policies."
+    },
+    {
+      "id": 224,
+      "text": "The audit team monitored tax compliance to reduce revenue leakage."
+    },
+    {
+      "id": 225,
+      "text": "Researchers compared cross-cultural practices to analyse societal trends."
+    },
+    {
+      "id": 226,
+      "text": "The ministry issued procurement directives to ensure transparent tendering."
+    },
+    {
+      "id": 227,
+      "text": "The corporation enhanced its corporate social responsibility agenda."
+    },
+    {
+      "id": 228,
+      "text": "The committee appraised national export strategies to improve market integration."
+    },
+    {
+      "id": 229,
+      "text": "The tribunal passed rulings to expedite settlement of commercial disputes."
+    },
+    {
+      "id": 230,
+      "text": "The authorities introduced stringent emission thresholds for heavy industries."
+    },
+    {
+      "id": 231,
+      "text": "The board commissioned independent reviews to improve administrative oversight."
+    },
+    {
+      "id": 232,
+      "text": "Researchers examined dietary recommendations to address metabolic disorders."
+    },
+    {
+      "id": 233,
+      "text": "The financial council approved capital restructuring to stabilise markets."
+    },
+    {
+      "id": 234,
+      "text": "The ministry developed immigration reforms to streamline application processing."
+    },
+    {
+      "id": 235,
+      "text": "The panel established monitoring indicators for newly introduced welfare schemes."
+    },
+    {
+      "id": 236,
+      "text": "The government supported technology clusters to boost entrepreneurial growth."
+    },
+    {
+      "id": 237,
+      "text": "The university broadened its academic catalogue to include transdisciplinary programmes."
+    },
+    {
+      "id": 238,
+      "text": "The analysts evaluated public debt sustainability amid volatile interest rates."
+    },
+    {
+      "id": 239,
+      "text": "The authorities constructed education awareness campaigns to uplift rural participation."
+    },
+    {
+      "id": 240,
+      "text": "Policy makers debated constitutional amendments to reinforce democratic rights."
+    },
+    {
+      "id": 241,
+      "text": "The federal commission conducted climate audits to measure ecological compliance."
+    },
+    {
+      "id": 242,
+      "text": "The advisory committee expanded national testing capacity during health crises."
+    },
+    {
+      "id": 243,
+      "text": "The audit division scrutinised corporate filings to uncover fraudulent practices."
+    },
+    {
+      "id": 244,
+      "text": "The ministry deployed community outreach initiatives to improve literacy levels."
+    },
+    {
+      "id": 245,
+      "text": "Researchers interpreted migration data to explain urban labour fluctuations."
+    },
+    {
+      "id": 246,
+      "text": "The agency monitored coastal infrastructure to mitigate cyclone-related damage."
+    },
+    {
+      "id": 247,
+      "text": "The council enhanced transparency standards within governmental communication."
+    },
+    {
+      "id": 248,
+      "text": "The department encouraged public transport adoption to reduce carbon emissions."
+    },
+    {
+      "id": 249,
+      "text": "The organisation established ethics committees to ensure responsible innovation."
+    },
+    {
+      "id": 250,
+      "text": "The ministry implemented border trade policies to stimulate regional commerce."
+    },
+    {
+      "id": 251,
+      "text": "The authorities enforced intellectual property protections for digital media."
+    },
+    {
+      "id": 252,
+      "text": "The firm adopted strategic forecasting to anticipate economic volatility."
+    },
+    {
+      "id": 253,
+      "text": "Researchers employed satellite imagery to map deforestation patterns."
+    },
+    {
+      "id": 254,
+      "text": "The government pursued multilateral partnerships to enhance global security."
+    },
+    {
+      "id": 255,
+      "text": "The council restructured administrative units to improve workflow efficiency."
+    },
+    {
+      "id": 256,
+      "text": "The panel assessed cybercrime statistics to update regulatory protocols."
+    },
+    {
+      "id": 257,
+      "text": "The institute promoted collaborative projects to advance scientific advancement."
+    },
+    {
+      "id": 258,
+      "text": "Researchers debated theoretical frameworks to refine ideological paradigms."
+    },
+    {
+      "id": 259,
+      "text": "The ministry authorised cultural preservation grants for indigenous communities."
+    },
+    {
+      "id": 260,
+      "text": "The corporate board introduced remuneration reforms to align performance incentives."
+    },
+    {
+      "id": 261,
+      "text": "The analysts compared tax revenues across states to diagnose fiscal imbalances."
+    },
+    {
+      "id": 262,
+      "text": "The commission strengthened oversight mechanisms to detect regulatory violations."
+    },
+    {
+      "id": 263,
+      "text": "The agency evaluated fisheries policy to ensure sustainable marine yields."
+    },
+    {
+      "id": 264,
+      "text": "The research team documented linguistic diversity across remote populations."
+    },
+    {
+      "id": 265,
+      "text": "The ministry endorsed cross-border data transfer frameworks to standardise digital trade."
+    },
+    {
+      "id": 266,
+      "text": "The university expanded laboratory facilities to enhance research output."
+    },
+    {
+      "id": 267,
+      "text": "The advisory unit released policy notes to advance labour rights advocacy."
+    },
+    {
+      "id": 268,
+      "text": "The analysts modelled supply-demand curves to predict commodity price shifts."
+    },
+    {
+      "id": 269,
+      "text": "The council drafted water conservation policies to mitigate resource scarcity."
+    },
+    {
+      "id": 270,
+      "text": "The tribunal verified contractual validity in long-term investment agreements."
+    },
+    {
+      "id": 271,
+      "text": "The finance authority adjusted monetary policy to control inflationary pressures."
+    },
+    {
+      "id": 272,
+      "text": "The panel promoted civic engagement to reinforce participatory governance."
+    },
+    {
+      "id": 273,
+      "text": "The auditors reviewed compliance metrics to ensure accountability in local councils."
+    },
+    {
+      "id": 274,
+      "text": "The committee investigated procurement anomalies within the healthcare system."
+    },
+    {
+      "id": 275,
+      "text": "Researchers detected anomalies in socioeconomic datasets using machine learning."
+    },
+    {
+      "id": 276,
+      "text": "The agency implemented urban resilience measures to confront climate hazards."
+    },
+    {
+      "id": 277,
+      "text": "The ministry distributed agricultural subsidies to stabilise farmer incomes."
+    },
+    {
+      "id": 278,
+      "text": "The board certified renewable installations to encourage sustainable development."
+    },
+    {
+      "id": 279,
+      "text": "The tribunal amended cross-border arbitration rules to simplify dispute resolution."
+    },
+    {
+    "id": 280,
+    "text": "Policy makers analysed epidemiological models to determine lockdown strategies."
+  },
+  	{
+		"id": 281,
+		"text": "The authorities established disaster relief funds to support vulnerable communities."
+	},
+	{
+		"id": 282,
+		"text": "Researchers examined trade dependencies to uncover supply chain vulnerabilities."
+	},
+	{
+		"id": 283,
+		"text": "The advisory board evaluated digital taxation models to regulate online commerce."
+	},
+	{
+		"id": 284,
+		"text": "The commission enforced whistleblower protections to ensure institutional accountability."
+	},
+	{
+		"id": 285,
+		"text": "The ministry promoted telemedicine adoption to expand rural healthcare access."
+	},
+	{
+		"id": 286,
+		"text": "The panel reviewed scientific patent claims to resolve intellectual property disputes."
+	},
+	{
+		"id": 287,
+		"text": "The analysts assessed greenhouse gas trajectories to determine mitigation targets."
+	},
+	{
+		"id": 288,
+		"text": "The regulatory agency revised data retention policies to address privacy concerns."
+	},
+	{
+		"id": 289,
+		"text": "The consortium accelerated vaccine research through coordinated international trials."
+	},
+	{
+		"id": 290,
+		"text": "The university strengthened postgraduate training to elevate research capabilities."
+	},
+	{
+		"id": 291,
+		"text": "The audit bureau identified procurement inefficiencies across multiple ministries."
+	},
+	{
+		"id": 292,
+		"text": "Researchers evaluated socio-technical systems to improve public service delivery."
+	},
+	{
+		"id": 293,
+		"text": "The council launched public consultation sessions to solicit citizen feedback."
+	},
+	{
+		"id": 294,
+		"text": "The board implemented rotational leadership to distribute managerial responsibilities."
+	},
+	{
+		"id": 295,
+		"text": "The tribunal assessed maritime claims to resolve jurisdictional conflicts."
+	},
+	{
+		"id": 296,
+		"text": "The ministry integrated adaptive learning platforms to modernise education."
+	},
+	{
+		"id": 297,
+		"text": "The authorities monitored atmospheric pollutants to enforce emission caps."
+	},
+	{
+		"id": 298,
+		"text": "The committee issued directives to improve industrial safety compliance."
+	},
+	{
+		"id": 299,
+		"text": "Researchers compared agricultural yield models to forecast production deficits."
+	},
+	{
+		"id": 300,
+		"text": "The agency investigated data manipulation allegations within research institutions."
+	},
+	{
+		"id": 301,
+		"text": "The council deployed carbon accounting methodologies to track ecological impact."
+	},
+	{
+		"id": 302,
+		"text": "The panel authorised the construction of climate-resilient infrastructure."
+	},
+	{
+		"id": 303,
+		"text": "Economic experts recalibrated monetary indicators to reflect revised inflation metrics."
+	},
+	{
+		"id": 304,
+		"text": "The ministry coordinated interdepartmental dialogue to enhance policy coherence."
+	},
+	{
+		"id": 305,
+		"text": "The advisory unit assessed cultural integration frameworks for migrant communities."
+	},
+	{
+		"id": 306,
+		"text": "The analysts measured labour productivity fluctuations in emerging sectors."
+	},
+	{
+		"id": 307,
+		"text": "The regulatory agency implemented quality audits to monitor pharmaceutical compliance."
+	},
+	{
+		"id": 308,
+		"text": "Researchers reconstructed historical climatology records using archived observations."
+	},
+	{
+		"id": 309,
+		"text": "The university harmonised accreditation standards to improve international compatibility."
+	},
+	{
+		"id": 310,
+		"text": "The council implemented wildlife conservation strategies to preserve biodiversity."
+	},
+	{
+		"id": 311,
+		"text": "The ministry expanded literacy interventions to address educational inequalities."
+	},
+	{
+		"id": 312,
+		"text": "The tribunal authorised transnational arbitration to accelerate legal outcomes."
+	},
+	{
+		"id": 313,
+		"text": "The commission established electoral guidelines to uphold democratic accountability."
+	},
+	{
+		"id": 314,
+		"text": "The panel strengthened epidemiological surveillance to detect emerging diseases."
+	},
+	{
+		"id": 315,
+		"text": "The authorities distributed scientific grants to accelerate laboratory research."
+	},
+	{
+		"id": 316,
+		"text": "The enterprise digitised archival records to enhance information accessibility."
+	},
+	{
+		"id": 317,
+		"text": "The analysts compared trade exposure across sectors to assess tariff risk."
+	},
+	{
+		"id": 318,
+		"text": "The ministry coordinated drought mitigation programmes across agricultural districts."
+	},
+	{
+		"id": 319,
+		"text": "The committee mandated environmental reporting for publicly listed corporations."
+	},
+	{
+		"id": 320,
+		"text": "The advisory board interpreted macroeconomic data to formulate policy recommendations."
+	},
+	{
+		"id": 321,
+		"text": "The government negotiated multilateral transport corridors to strengthen regional logistics."
+	},
+	{
+		"id": 322,
+		"text": "The regulatory council adopted privacy-by-design standards to secure digital services."
+	},
+	{
+		"id": 323,
+		"text": "Researchers examined cultural policy models to foster creative industry growth."
+	},
+	{
+		"id": 324,
+		"text": "The enterprise integrated analytics dashboards to optimise production efficiency."
+	},
+	{
+		"id": 325,
+		"text": "The ministry promoted fiscal decentralisation to empower local administrations."
+	},
+	{
+		"id": 326,
+		"text": "The commission reviewed legislative inconsistencies to refine regulatory clarity."
+	},
+	{
+		"id": 327,
+		"text": "The agency deployed monitoring stations to assess hydrological variability."
+	},
+	{
+		"id": 328,
+		"text": "The panel evaluated research proposals to distribute grant funding equitably."
+	},
+	{
+		"id": 329,
+		"text": "The analysts assessed digital infrastructure deficits in rural communities."
+	},
+	{
+		"id": 330,
+		"text": "The ministry publicised citizen charters to enhance bureaucratic transparency."
+	},
+	{
+		"id": 331,
+		"text": "The commission examined supply disruptions caused by geopolitical instability."
+	},
+	{
+		"id": 332,
+		"text": "Researchers documented indigenous forest management to inform conservation policy."
+	},
+	{
+		"id": 333,
+		"text": "The authorities designated special economic zones to stimulate industrial investment."
+	},
+	{
+		"id": 334,
+		"text": "The tribunal validated maritime treaties governing exclusive economic rights."
+	},
+	{
+		"id": 335,
+		"text": "The analysts interpreted behavioural data to model electoral decision-making."
+	},
+	{
+		"id": 336,
+		"text": "The board piloted strategic reforms to reorganise departmental structures."
+	},
+	{
+		"id": 337,
+		"text": "The ministry established marine conservation corridors to preserve aquatic habitats."
+	},
+	{
+		"id": 338,
+		"text": "The panel recommended data governance reforms to strengthen cybersecurity."
+	},
+	{
+		"id": 339,
+		"text": "The government expanded green procurement to encourage sustainable manufacturing."
+	},
+	{
+		"id": 340,
+		"text": "Researchers quantified storm intensity trends to evaluate climate risk exposure."
+	},
+	{
+		"id": 341,
+		"text": "The agency established migration databases to manage cross-border flows."
+	},
+	{
+		"id": 342,
+		"text": "The council supported scientific exchange networks to increase knowledge transfer."
+	},
+	{
+		"id": 343,
+		"text": "The ministry instituted wildlife monitoring systems to deter illegal poaching."
+	},
+	{
+		"id": 344,
+		"text": "The tribunal presided over complex disputes involving multinational corporations."
+	},
+	{
+		"id": 345,
+		"text": "The analysts constructed macroeconomic models to evaluate structural reforms."
+	},
+	{
+		"id": 346,
+		"text": "The enterprise deployed blockchain solutions to secure supply verification."
+	},
+	{
+		"id": 347,
+		"text": "The commission initiated labour protection reviews to strengthen workers’ rights."
+	},
+	{
+		"id": 348,
+		"text": "Researchers analysed thermal anomalies to map urban heat island effects."
+	},
+	{
+		"id": 349,
+		"text": "The agency integrated health registries to improve data interoperability."
+	},
+	{
+		"id": 350,
+		"text": "The ministry enacted professional licensure reforms to maintain quality standards."
+	},
+  	{
+		"id": 351,
+		"text": "The government expanded maritime surveillance to secure territorial waters."
+	},
+	{
+		"id": 352,
+		"text": "Researchers consolidated clinical trial data to validate pharmaceutical efficacy."
+	},
+	{
+		"id": 353,
+		"text": "The regulatory council imposed safety benchmarks on autonomous transport systems."
+	},
+	{
+		"id": 354,
+		"text": "The ministry strengthened drought contingency plans across rural districts."
+	},
+	{
+		"id": 355,
+		"text": "The commission audited regional housing markets to address affordability issues."
+	},
+	{
+		"id": 356,
+		"text": "The tribunal assessed allegations involving international procurement irregularities."
+	},
+	{
+		"id": 357,
+		"text": "The advisory board issued recommendations to enhance environmental stewardship."
+	},
+	{
+		"id": 358,
+		"text": "Researchers developed computational models to simulate geopolitical scenarios."
+	},
+	{
+		"id": 359,
+		"text": "The committee advanced renewable financing schemes to support solar deployment."
+	},
+	{
+		"id": 360,
+		"text": "The authorities enforced maritime waste regulations to protect coastal ecosystems."
+	},
+	{
+		"id": 361,
+		"text": "The board implemented organisational restructuring to consolidate departments."
+	},
+	{
+		"id": 362,
+		"text": "The university expanded doctoral fellowships to encourage advanced research."
+	},
+	{
+		"id": 363,
+		"text": "The analysts assessed global currency fluctuations to manage portfolio risk."
+	},
+	{
+		"id": 364,
+		"text": "The council commissioned demographic evaluations to plan resource allocation."
+	},
+	{
+		"id": 365,
+		"text": "The authorities ratified trade protocols to enable tariff-free exchanges."
+	},
+	{
+		"id": 366,
+		"text": "The ministry deployed conservation incentives to restore degraded wetlands."
+	},
+	{
+		"id": 367,
+		"text": "Researchers documented behavioural anomalies to refine diagnostic classifications."
+	},
+	{
+		"id": 368,
+		"text": "The commission created skill development frameworks for emerging technologies."
+	},
+	{
+		"id": 369,
+		"text": "The regulatory agency approved health monitoring devices to support clinical practice."
+	},
+	{
+		"id": 370,
+		"text": "Economists evaluated cross-border capital flows to detect systemic vulnerabilities."
+	},
+	{
+		"id": 371,
+		"text": "The panel enforced legal provisions to regulate carbon-intensive industries."
+	},
+	{
+		"id": 372,
+		"text": "Researchers compared innovation indices to benchmark national competitiveness."
+	},
+	{
+		"id": 373,
+		"text": "The authorities coordinated water conservation programmes across metropolitan regions."
+	},
+	{
+		"id": 374,
+		"text": "The ministry drafted resilience metrics to assess climate adaptation capacity."
+	},
+	{
+		"id": 375,
+		"text": "The commission formalised marine zoning regulations to govern coastal activities."
+	},
+	{
+		"id": 376,
+		"text": "Analysts examined financial inclusivity trends to support banking reforms."
+	},
+	{
+		"id": 377,
+		"text": "The advisory council evaluated e-governance adoption across administrative units."
+	},
+	{
+		"id": 378,
+		"text": "The board encouraged vocational education pathways to diversify employment outcomes."
+	},
+	{
+		"id": 379,
+		"text": "Researchers mapped biodiversity gradients to inform conservation management."
+	},
+	{
+		"id": 380,
+		"text": "The tribunal oversaw settlement negotiations involving multinational subsidiaries."
+	},
+	{
+		"id": 381,
+		"text": "The regulatory committee imposed digital advertising standards to prevent misinformation."
+	},
+	{
+		"id": 382,
+		"text": "The ministry expanded agricultural extension programmes to modernise farming techniques."
+	},
+	{
+		"id": 383,
+		"text": "Economists interpreted consumption expenditure data to predict recession probability."
+	},
+	{
+		"id": 384,
+		"text": "The government established advanced warning systems to mitigate cyclone damage."
+	},
+	{
+		"id": 385,
+		"text": "The council reviewed urban zoning legislation to optimise land utilisation."
+	},
+	{
+		"id": 386,
+		"text": "The panel strengthened export diversification strategies to stabilise revenues."
+	},
+	{
+		"id": 387,
+		"text": "Researchers studied air quality metrics to evaluate transportation impacts."
+	},
+	{
+		"id": 388,
+		"text": "The authorities mandated universal health coverage to improve treatment accessibility."
+	},
+	{
+		"id": 389,
+		"text": "The ministry restructured welfare benefits to reduce administrative delays."
+	},
+	{
+		"id": 390,
+		"text": "The finance board supervised monetary interventions to stabilise currency markets."
+	},
+	{
+		"id": 391,
+		"text": "The regulatory agency examined technology monopolies to ensure fair competition."
+	},
+	{
+		"id": 392,
+		"text": "Scientists observed long-term tectonic patterns to study seismic vulnerability."
+	},
+	{
+		"id": 393,
+		"text": "Experts modelled disease transmission dynamics to inform public health strategy."
+	},
+	{
+		"id": 394,
+		"text": "The commission enacted digital property legislation to regulate virtual assets."
+	},
+	{
+		"id": 395,
+		"text": "Researchers evaluated linguistic assimilation to analyse migrant integration."
+	},
+	{
+		"id": 396,
+		"text": "The audit bureau investigated regulatory gaps affecting coastal fisheries management."
+	},
+	{
+		"id": 397,
+		"text": "The tribunal endorsed maritime arbitration protocols to accelerate dispute settlement."
+	},
+	{
+		"id": 398,
+		"text": "Analysts investigated speculative capital movement affecting commodity valuation."
+	},
+	{
+		"id": 399,
+		"text": "The ministry enhanced diplomatic corridors to strengthen bilateral cooperation."
+	},
+	{
+		"id": 400,
+		"text": "Researchers evaluated regional infrastructure bottlenecks to improve trade logistics."
+	}
+  ]
+}

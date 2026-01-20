@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pronunciation App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+<div id="difficulty-screen">
+    <h1>Choose Difficulty</h1>
+    <button class="level-btn" data-level="beginner">Beginner</button>
+    <button class="level-btn" data-level="intermediate">Intermediate</button>
+    <button class="level-btn" data-level="advanced">Advanced</button>
+</div>
+
+<div id="session-screen" class="hidden">
+    <div id="progress"></div>
+    <div id="sentence-box"></div>
+
+    <div id="controls">
+        <button id="record-btn">🎙️ Record</button>
+        <button id="stop-btn" disabled>⏹️ Stop</button>
+    </div>
+
+    <div id="feedback"></div>
+
+    <button id="next-btn" class="hidden">Next ➜</button>
+</div>
+
+<div id="summary-screen" class="hidden">
+    <h2>Session Summary</h2>
+    <p id="sum-correct"></p>
+    <p id="sum-wrong"></p>
+    <p id="sum-missing"></p>
+    <p id="sum-weak"></p>
+
+    <button onclick="location.reload()">Restart</button>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
