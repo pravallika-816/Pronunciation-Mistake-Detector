@@ -4,7 +4,7 @@ A speech-based pronunciation evaluation system using:
 - Speech Recognition
 - Phoneme analysis
 - Flask backend
-- HTML/JS frontend (coming soon)
+- HTML/JS frontend
 
 ## Features
 ✓ speech-to-text
